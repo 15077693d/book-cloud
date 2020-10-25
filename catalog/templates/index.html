@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% load static %}
+{% block css %}
+<link rel="stylesheet" href="{% static 'css/index.css' %}"/>{% endblock %}
+{% block content %}
+<div class="container">
+    <div class="overlay"></div>
+
+    {% for genre,book_chi_dict in three_books_dict.items%}
+    <div id="{{genre}}" class="card-container">
+        <div class="card-titles">{{book_chi_dict.chinese}}</div>
+        <div class="card-image-container">
+            <img class="card-image" src={{book_chi_dict.books.0.image}}/>
+        </div>
+        <div class="card-expand">
+            <div class="card-titles">{{book_chi_dict.chinese}}</div>
+            <a href="{% url 'books' genre=genre page=1 %}" class="read-more"><span>觀看更多</span></a>
+            {% for book in book_chi_dict.books%}
+            <div class="card-expand-book">
+                <div class="book-image">
+                    <img src={{book.image}}/>
+                </div>
+                <div class="book-info">
+                    <a href="{% url 'book' book_id=book.id %}"><h5>{{book.title}}</h5></a>
+                    <h6>By {{book.author.name}}</h6>
+                    <p>
+                        {{book.summary}}
+                    </p>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}

@@ -1,0 +1,36 @@
+/* author */
+h1{
+  margin: 20px 0px!important;
+}
+
+.authors-search-box{
+  display: flex;
+  padding: 10px 0;
+  border-top: 1px solid rgba(190, 187, 187, 0.664);
+  border-bottom: 1px solid rgba(190, 187, 187, 0.664);
+}
+
+#pages{
+  width: 100px;
+  justify-content: space-between;
+  display: flex;
+}
+
+#pages a{
+ display: flex;
+  justify-content: center;
+  align-items:center
+}
+#search-author-btn{
+  margin: 0 20px;
+}
+
+.author-box{
+  padding: 10px 0;
+  border-bottom: 1px dotted rgba(190, 187, 187, 0.664);
+}
+
+.author-box p{
+  margin: 5px 0px;
+}
+

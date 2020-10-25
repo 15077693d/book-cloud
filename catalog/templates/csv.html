@@ -1,0 +1,51 @@
+{% extends 'base.html' %}
+
+{% load static %}
+
+{% block content %}
+<style>
+    #csv_form{
+    margin:auto;
+    margin-top:60px;
+    width:80%;
+    max-width:800px
+    }
+    #csv_form div{
+    margin-bottom:15px;
+    }
+
+</style>
+<form id="csv_form" method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+    <div class="custom-file">
+        <label class="custom-file-label" for="language">Language</label>
+        <input class="custom-file-input" type="file" id="language" name="language">
+    </div>
+    <div class="custom-file">
+        <label class="custom-file-label" for="genre">Genre</label>
+        <input class="custom-file-input" type="file" id="genre" name="genre">
+    </div>
+
+    <div class="custom-file">
+        <label class="custom-file-label" for="author">Author</label>
+        <input class="custom-file-input" type="file" id="author" name="author">
+    </div>
+    <div class="custom-file">
+        <label class="custom-file-label" for="book">Book</label>
+        <input class="custom-file-input" type="file" id="book" name="book">
+    </div>
+    <div class="custom-file">
+        <label for="instance">All add one book instance</label>
+        <input type="checkbox" id="instance" name="instance">
+    </div>
+    <button class="btn btn-primary" type="submit">Upload</button>
+    {% if uploaded_file_url %}
+    <p>Added df:  <a href="{{ uploaded_file_url }}">{{ uploaded_file_url }}</a></p>
+    {% endif %}
+
+    <p><a href="{% url 'index' %}">Return to home</a></p>
+</form>
+
+{% endblock %}
+</div>
+

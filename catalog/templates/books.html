@@ -1,0 +1,100 @@
+{% extends "base.html" %}
+{% load static %}
+{% block css %}
+<link rel="stylesheet" href="{% static 'css/books.css' %}"/>{% endblock %}
+{% block content%}
+<div class="container">
+    <div class="left">
+        <div id="filter">
+            <a href="{% url 'books' page=1  genre='all' %}" class="btn btn-primary">取消篩選</a>
+            <h6>書籍分類</h6>
+            <a href="{% url 'books' page=1 genre='art'%}">藝術</a>
+            <a href="{% url 'books' page=1 genre='education'%}">教育</a>
+            <a href="{% url 'books' page=1 genre='design'%}">設計</a>
+            <a href="{% url 'books' page=1 genre='fiction'%}">科幻</a>
+            <a href="{% url 'books' page=1 genre='nature'%}">自然</a>
+            <a href="{% url 'books' page=1 genre='music'%}">音樂</a>
+            <a href="{% url 'books' page=1 genre='history'%}">歷史</a>
+            <a href="{% url 'books' page=1 genre='religion'%}">宗教</a>
+            <a href="{% url 'books' page=1 genre='science'%}">科學</a>
+            <a href="{% url 'books' page=1 genre='travel'%}">旅遊</a>
+            <h6>價錢</h6>
+            <a href="#">免費</a>
+            <a href="#">低於 $2</a>
+            <a href="#">$2 - $5</a>
+            <a href="#">$5 - $10</a>
+            <a href="#">$10 - $15</a>
+            <a href="#">$15 - $20</a>
+            <a href="#">$20 - $25</a>
+            <a href="#">超過 $25</a>
+            <h6>借閱狀態</h6>
+            <a href="#">在架上</a>
+            <a href="#">外借中</a>
+            <a href="#">保養中</a>
+        </div>
+    </div>
+    <div class="right">
+        <h1>{{chinese_genre}}</h1>
+        <button id="selector" class="btn btn-primary">
+            篩選器<i class="fas fa-caret-right fa-caret"></i>
+        </button>
+        <div id="filter">
+            <h6>書籍分類</h6>
+            <a href="{% url 'books' page=1 genre='art'%}">藝術</a>
+            <a href="{% url 'books' page=1 genre='education'%}">教育</a>
+            <a href="{% url 'books' page=1 genre='design'%}">設計</a>
+            <a href="{% url 'books' page=1 genre='fiction'%}">科幻</a>
+            <a href="{% url 'books' page=1 genre='nature'%}">自然</a>
+            <a href="{% url 'books' page=1 genre='music'%}">音樂</a>
+            <a href="{% url 'books' page=1 genre='history'%}">歷史</a>
+            <a href="{% url 'books' page=1 genre='religion'%}">宗教</a>
+            <a href="{% url 'books' page=1 genre='science'%}">科學</a>
+            <a href="{% url 'books' page=1 genre='travel'%}">旅遊</a>
+            <h6>價錢</h6>
+            <a href="#">免費</a>
+            <a href="#">低於 $2</a>
+            <a href="#">$2 - $5</a>
+            <a href="#">$5 - $10</a>
+            <a href="#">$10 - $15</a>
+            <a href="#">$15 - $20</a>
+            <a href="#">$20 - $25</a>
+            <a href="#">超過 $25</a>
+            <h6>借閱狀態</h6>
+            <a href="#">在架上</a>
+            <a href="#">外借中</a>
+            <a href="#">保養中</a>
+        </div>
+        <div id="result">
+            <h4>篩選結果</h4>
+            <div id="pages">
+                <a href="{% url 'books' page=prevPage  genre=genre %}" id="selector-left" class="btn btn-primary">
+                    <i class="fas fa-caret-left"></i>
+                </a>
+                <a href="{% url 'books' page=nextPage genre=genre %}" id="selector-right" class="btn btn-primary">
+                    <i class="fas fa-caret-right"></i>
+                </a>
+            </div>
+        </div>
+        <div class="books">
+            {% for book in books %}
+            <div id="{{book.id}}" class="book">
+                <div class="img">
+                    <img src={{book.image}}/>
+                </div>
+                <div class="book-info">
+                    <h4>
+                        <a href="{% url 'book' book_id=book.id %}">{{book.title}}</a>
+                    </h4>
+                    <h6>By {{book.author.name}}</h6>
+                    <h6>Seven Seas</h6>
+                    <h6>$0.99</h6>
+                    <p>
+                        {{book.summary}}
+                    </p>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+{% endblock %}

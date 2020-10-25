@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+{% load static %}
+{% block css %}
+<link rel="stylesheet" href="{% static 'css/book.css' %}"/>{% endblock %}
+{% block content%}
+<div class="container">
+    <div class="book-grid">
+        <img src="{{book.image}}"/>
+        <div class="book-info">
+            <h4>{{book.title}}</h4>
+            <h6><a href="{% url 'author' author_name=book.author.name page=1 %}">{{book.author.name}}</a></h6>
+            <h6>Seven Seas</h6>
+        </div>
+        <div class="book-description">
+            <p class="book-description-title">書籍簡介</p>
+            <span class="book-description-content">
+            {{book.summary}}
+          </span>
+        </div>
+    </div>
+    <div class="book-record">
+        <div class="book-borrow">
+         <span>持書用戶：{% for book_instance in book_instances %} <i data-toggle="tooltip" data-html="true" title="<em>{{book_instance.holder.username}}</em>" class="fas fa-user-alt"></i>
+         {% endfor %}
+         </span>
+            {% if request.session.user %}
+            <button class="btn btn-primary" id="search-submit-btn" type="submit">
+                借閱書籍
+            </button>
+            {% else %}
+            <button class="btn btn-primary" id="search-submit-btn" type="submit" disabled>
+                借閱書籍
+            </button>
+            {% endif %}
+        </div>
+        <div class="book-buy">
+            <div class="book-detail">
+                <div>
+                    <p>Seven Seas</p>
+                    <p>ISBN: {{book.isbn}}</p>
+                    <p>320 Pages</p>
+                </div>
+                <span class="book-price"> $13.99 </span>
+            </div>
+            <div class="book-btn-group">
+                <button class="btn btn-primary" type="submit">Google</button>
+                <button class="btn btn-primary" type="submit">Powells</button>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

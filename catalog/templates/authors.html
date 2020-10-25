@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+{% load static %}
+{% block css %}
+<link rel="stylesheet" href="{% static 'css/authors.css' %}"/>{% endblock %}
+{% block content%}
+<div class="container">
+    <h1>所有作者</h1>
+    <form class="authors-search-box">
+        <input
+                class="form-control"
+                placeholder="搜尋"
+                aria-label="Search"
+        />
+        <button class="btn btn-primary" id="search-author-btn" type="submit">
+            <i class="fas fa-search"></i>
+        </button>
+        <div id="pages">
+            <a href="{% url 'authors' page=prevPage%}" id="selector-left" class="btn btn-primary">
+                <i class="fas fa-caret-left"></i>
+            </a>
+            <a href="{% url 'authors' page=nextPage%}" id="selector-right" class="btn btn-primary">
+                <i class="fas fa-caret-right"></i>
+            </a>
+        </div>
+    </form>
+    {% for author_dict in author_dict_list%}
+    <div class="author-box">
+        <p><a href="{% url 'author' author_name=author_dict.name page=1%}">{{author_dict.name}}</a></p>
+        <p>本館藏書: <span>{{author_dict.book_count}}</span></p>
+        <p>書籍分類: <span>{{author_dict.fields}}</span></p>
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}

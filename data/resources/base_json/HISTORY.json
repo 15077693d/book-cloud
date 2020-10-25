@@ -1,0 +1,833 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 488,
+    "items": [
+        {
+            "kind": "books#volume",
+            "id": "L6sPQGgMSKMC",
+            "etag": "oN7Xp6s4/w0",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/L6sPQGgMSKMC",
+            "volumeInfo": {
+                "title": "Loss of Confidence",
+                "subtitle": "Politics and Policy in The 1970s",
+                "authors": [
+                    "David Brian Robertson"
+                ],
+                "publisher": "Penn State Press",
+                "publishedDate": "2010-11-01",
+                "description": "As the oil shortages, inflation, and unemployment of the 1970s disrupted American lives and the Watergate scandal rocked the presidency, faith in the future of the nation and its leaders was severely damaged. This volume, which is the product of a unique collaboration of distinguished scholars from history and political science, offers a probing analysis of the causes, processes, and consequences of this erosion of faith in public solutions to our country's problems. At the beginning of the decade, a confident American public and its leaders still embraced the government activism that was the legacy of the New Deal. But grave doubts about the efficacy of public policy&—fueled by Watergate, Vietnam, stagflation, energy crises, and intensely controversial social policies&—undermined this public trust as the decade wore on, until by the end tax revolts were breaking out across the country. Describing government as the problem, not the solution, Ronald Reagan broke with tradition to set a political and policy agenda that has been dominant ever since. These experts from two disciplines bring their special insights to bear in dissecting the key developments of this decade that have transformed American politics in the last quarter of the century. The contributors are Ballard C. Campbell, Joseph Hinchliffe, J. David Hoeveler, Sidney M. Milkis, Alice O&’Connor, Paul J. Quirk. David Brian Robertson, and John T. Woolley. Like the other titles in Issues in Policy History, this book reprints a special issue of The Journal of Policy History.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0271044861"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780271044866"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "printType": "BOOK",
+                "categories": [
+                    "Political Science"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.0.3.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=L6sPQGgMSKMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=L6sPQGgMSKMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=L6sPQGgMSKMC&printsec=frontcover&dq=subject:HISTORY&hl=&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=L6sPQGgMSKMC&dq=subject:HISTORY&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Loss_of_Confidence.html?hl=&id=L6sPQGgMSKMC"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Loss_of_Confidence-sample-epub.acsm?id=L6sPQGgMSKMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Loss_of_Confidence-sample-pdf.acsm?id=L6sPQGgMSKMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=L6sPQGgMSKMC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "fnxN8C87l9MC",
+            "etag": "Xn55sSDf8Ec",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/fnxN8C87l9MC",
+            "volumeInfo": {
+                "title": "A History of the English Poor Law in Connection with the State of the Country and the Condition of the People",
+                "authors": [
+                    "George Nicholls"
+                ],
+                "publisher": "The Lawbook Exchange, Ltd.",
+                "publishedDate": "2007",
+                "description": "Reprint of the final edition containing revisions made by the author and a biography, along with the supplementary volume by Thomas Mackay. Nicholls [1781-1865] was a pioneering poor-law reformer and administrator. While Great Britain's Poor Law Commissioner he drafted the Irish Poor-Law Act (1832). One of the first to assert that relief bred a culture of dependency and a resistance to work, he advocated the abolition of relief except as a last resort. In addition to the present study he wrote A History of the Scotch Poor Law (1856) and A History of the Irish Poor Law (1856), both of which are available in reprint editions by The Lawbook Exchange, Ltd. Like his other studies, this one relates the evolution of poor laws since the medieval era to economic, social and political history. Notably sophisticated works, they were held in high regard by Sir Leslie Stephen and F.W. Maitland.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781584776918"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1584776919"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "printType": "BOOK",
+                "categories": [
+                    "History"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.0.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=fnxN8C87l9MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=fnxN8C87l9MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=fnxN8C87l9MC&printsec=frontcover&dq=subject:HISTORY&hl=&cd=2&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=fnxN8C87l9MC&dq=subject:HISTORY&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/A_History_of_the_English_Poor_Law_in_Con.html?hl=&id=fnxN8C87l9MC"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/A_History_of_the_English_Poor_Law_in_Con-sample-pdf.acsm?id=fnxN8C87l9MC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=fnxN8C87l9MC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "iWnbAAAAQBAJ",
+            "etag": "pBjJJEt777A",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/iWnbAAAAQBAJ",
+            "volumeInfo": {
+                "title": "Organizations, Gender and the Culture of Palestinian Activism in Haifa, Israel",
+                "authors": [
+                    "Elizabeth Faier"
+                ],
+                "publisher": "Routledge",
+                "publishedDate": "2013-09-13",
+                "description": "This book, based on 25 months of anthropological fieldwork, examines activists and activism in Palestinian nongovernmental organizations in Israel. It concentrates on the ways organizations enable certain processes of self-identification based on activists' constructions of modernity.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781135411169"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1135411166"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 296,
+                "printType": "BOOK",
+                "categories": [
+                    "History"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.2.0.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=iWnbAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=iWnbAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=iWnbAAAAQBAJ&printsec=frontcover&dq=subject:HISTORY&hl=&cd=3&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=iWnbAAAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=iWnbAAAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 373.3,
+                    "currencyCode": "HKD"
+                },
+                "retailPrice": {
+                    "amount": 274.58,
+                    "currencyCode": "HKD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=iWnbAAAAQBAJ&rdid=book-iWnbAAAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 373300000,
+                            "currencyCode": "HKD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 274580000,
+                            "currencyCode": "HKD"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Organizations_Gender_and_the_Culture_of-sample-pdf.acsm?id=iWnbAAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=iWnbAAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "6GuhlvJRB4oC",
+            "etag": "H60wqP2DrW8",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/6GuhlvJRB4oC",
+            "volumeInfo": {
+                "title": "Bedouin Justice",
+                "subtitle": "Laws and Customs Amongst the Egyptian Bedouin",
+                "authors": [
+                    "Austin Kennett"
+                ],
+                "publisher": "Cambridge University Press",
+                "publishedDate": "2011-06-09",
+                "description": "An introduction to the traditions of Bedouin law intended to dispel myths that have developed in western society.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780521230834"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0521230837"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 192,
+                "printType": "BOOK",
+                "categories": [
+                    "History"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.2.0.0.preview.1",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=6GuhlvJRB4oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=6GuhlvJRB4oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=6GuhlvJRB4oC&printsec=frontcover&dq=subject:HISTORY&hl=&cd=4&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=6GuhlvJRB4oC&dq=subject:HISTORY&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Bedouin_Justice.html?hl=&id=6GuhlvJRB4oC"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=6GuhlvJRB4oC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "oHj3BQAAQBAJ",
+            "etag": "aN7RiWmG3IY",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/oHj3BQAAQBAJ",
+            "volumeInfo": {
+                "title": "Zahlen",
+                "authors": [
+                    "Heinz-Dieter Ebbinghaus",
+                    "Hans Hermes",
+                    "Friedrich Hirzebruch",
+                    "Max Koecher",
+                    "Klaus Mainzer",
+                    "Jürgen Neukirch",
+                    "Alexander Prestel",
+                    "Reinhold Remmert"
+                ],
+                "publisher": "Springer-Verlag",
+                "publishedDate": "2013-03-07",
+                "description": "Mathematik zu erlernen und zu lehren gilt als schwierig. Die Begriffe reelle und komplexe Zahlen oder die Kreiszahl Pi sind zwar vielen bekannt, aber nur wenige wissen, was dahinter steckt. Leser, die erfahren wollen, was sich wirklich dahinter verbirgt, werden in diesem Band an die Magie der Mathematik herangeführt: „Das Lesen ist ein Genuß, den man sich nicht entgehen lassen sollte.\" (Jahresbericht der Deutschen Mathematiker-Vereinigung).",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9783642581557"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "3642581552"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 337,
+                "printType": "BOOK",
+                "categories": [
+                    "Mathematics"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "2.4.2.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=oHj3BQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=oHj3BQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "de",
+                "previewLink": "http://books.google.com.hk/books?id=oHj3BQAAQBAJ&printsec=frontcover&dq=subject:HISTORY&hl=&cd=5&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=oHj3BQAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=oHj3BQAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 229.55,
+                    "currencyCode": "HKD"
+                },
+                "retailPrice": {
+                    "amount": 160.68,
+                    "currencyCode": "HKD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=oHj3BQAAQBAJ&rdid=book-oHj3BQAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 229550000,
+                            "currencyCode": "HKD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 160680000,
+                            "currencyCode": "HKD"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Zahlen-sample-pdf.acsm?id=oHj3BQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=oHj3BQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "eTin1Yogkv0C",
+            "etag": "HLOC1OpIqP4",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/eTin1Yogkv0C",
+            "volumeInfo": {
+                "title": "\"Rabbatz der Halbstarken\"",
+                "subtitle": "Ein Jugendphänomen der 50er Jahre und seine öffentliche Rezeption am Beispiel der braunschweigischen Tagespresse",
+                "authors": [
+                    "Wiebke Westphal"
+                ],
+                "publisher": "GRIN Verlag",
+                "publishedDate": "2012-03-20",
+                "description": "Studienarbeit aus dem Jahr 2010 im Fachbereich Geschichte Europa - Deutschland - Neuere Geschichte, Note: 1,0, Georg-August-Universität Göttingen (Seminar für mittlere und neuere Geschichte), Veranstaltung: \"Nierentisch und Tütenlampe\" - Zur Alltagsgeschichte der fünfziger Jahre, Sprache: Deutsch, Abstract: Wer heute einen Blick auf die Bundesrepublik der 50er Jahre wirft, läuft leicht Gefahr, die Dekade angesichts heiterer Heimatfilme wie dem \"Schwarzwaldmädel\" aus dem Jahr 1950, strahlend weißer Persil-Hemden in den Illustrierten und fleißiger Hausfrauen wie \"Klementine\" aus der Ariel-Fernsehwerbung, nostalgisch als kleinbürgerliche Idylle zu verklären. Natürlich war ein Teil der 50er Jahre durch Nierentische und Tütenlampen geprägt – diese Elemente waren jedoch niemals die bestimmenden, sondern lediglich ein kleiner Ausschnitt aus einer viel breiteren Palette. Ein Blick auf die Gesellschaft der Bundesrepublik in den 50er Jahren ist immer auch ein Blick auf eine Gesellschaft \"nach der Katastrophe\". Nach horrenden Verlusten an Mensch und Material im Zweiten Weltkrieg leiteten die 50er die Rückkehr zu \"geordneten und gesitteten Verhältnissen\" ein. Die Wohnungsnot wurde langsam beseitigt, die Lebensbedingungen allmählich verbessert. Ehemalige Trümmerkinder, die jahrelang die Freiräume und Freiheiten der großstädtischen Ruinenlandschaften als \"Abenteuerspielplätze\" genutzt und genossen hatten, wurden im Zuge einer konservativen Werterestauration wieder verstärkt in Familie und Gesellschaft eingebunden. Die CDU/CSU erreichte unter Konrad Adenauer bei den Bundestagswahlen 1957, bislang einmalig in der Nachkriegsgeschichte, die absolute Mehrheit der Stimmen mit einer Kampagne, die den Namen \"Keine Experimente!\" trug – mehr als bezeichnend für den Zeitgeist. Und inmitten dieser neu und lieb gewonnenen Sicherheit erschien scheinbar aus dem Nichts eine Generation \"völlig verjazzter und versporteter\" Jugendlicher auf der Bildfläche und versetzte die Bevölkerung in Angst und Schrecken: \"Halbstarke\", unorganisierte Gruppierungen Halbwüchsiger, \"die in der Öffentlichkeit durch normwidriges, sinn- und nutzloses Randalieren friedensstörend auffallen und primitive Antriebserlebnisse befriedigen wollen.\"",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9783656155560"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "3656155569"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 43,
+                "printType": "BOOK",
+                "categories": [
+                    "History"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.6.2.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=eTin1Yogkv0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=eTin1Yogkv0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "de",
+                "previewLink": "http://books.google.com.hk/books?id=eTin1Yogkv0C&printsec=frontcover&dq=subject:HISTORY&hl=&cd=6&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=eTin1Yogkv0C&dq=subject:HISTORY&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Rabbatz_der_Halbstarken.html?hl=&id=eTin1Yogkv0C"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Rabbatz_der_Halbstarken-sample-pdf.acsm?id=eTin1Yogkv0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=eTin1Yogkv0C&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "RUYaDQAAQBAJ",
+            "etag": "AFULKZ9lUzI",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/RUYaDQAAQBAJ",
+            "volumeInfo": {
+                "title": "The Dwellers on the Nile",
+                "subtitle": "The Life, History, Religion and Literature of the Ancient Egyptians",
+                "authors": [
+                    "E. A. Wallis Budge"
+                ],
+                "publisher": "Courier Dover Publications",
+                "publishedDate": "2012-03-20",
+                "description": "A renowned expert introduces ancient Egypt's manners and customs, from the cradle to the grave and beyond. Nearly 50 illustrations enhance accessible discussions of food, work and play, jewelry, hieroglyphics, literature, religion, more.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780486169040"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0486169049"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 384,
+                "printType": "BOOK",
+                "categories": [
+                    "History"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.8.7.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=RUYaDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=RUYaDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=RUYaDQAAQBAJ&printsec=frontcover&dq=subject:HISTORY&hl=&cd=7&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=RUYaDQAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=RUYaDQAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 115.86,
+                    "currencyCode": "HKD"
+                },
+                "retailPrice": {
+                    "amount": 78.78,
+                    "currencyCode": "HKD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=RUYaDQAAQBAJ&rdid=book-RUYaDQAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 115860000,
+                            "currencyCode": "HKD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 78780000,
+                            "currencyCode": "HKD"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/The_Dwellers_on_the_Nile-sample-epub.acsm?id=RUYaDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/The_Dwellers_on_the_Nile-sample-pdf.acsm?id=RUYaDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=RUYaDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "IpO6lKuhWmgC",
+            "etag": "UU9f2/Q34b0",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/IpO6lKuhWmgC",
+            "volumeInfo": {
+                "title": "Jagd in der Neuzeit - Wandel von ritterlicher Tugend zum adeligen Vergnügen",
+                "authors": [
+                    "Farina Otto"
+                ],
+                "publisher": "GRIN Verlag",
+                "publishedDate": "2012-09-04",
+                "description": "Studienarbeit aus dem Jahr 2012 im Fachbereich Geschichte Europa - and. Länder - Neuzeit, Absolutismus, Industrialisierung, Note: 1,3, Gottfried Wilhelm Leibniz Universität Hannover, Veranstaltung: Tierhaltung in der frühen Neuzeit, Sprache: Deutsch, Abstract: Die Jagd wird von dem Zeitpunkt an, an dem sie nicht mehr als eine lebenserhaltende Notwendigkeit angesehen wird, vor allem von den Privilegierten ausgeübt. Die Auseinandersetzungen und Interessenskonflikte zwischen bäuerlichen Bevölkerung und Adel haben sich seit dem Mittelalter, im Bezug auf die Jagd, verschärft. Regelungen und Verbote seitens des Adels an die Bauern häuften sich und erschwerten ein friedliches Zusammenleben. Der Themenschwerpunkt, weshalb sich der Adel das Vorrecht zur Jagd sicherte und welche Belastungen die Untertanen dadurch erdulden mussten, sollen in der vorliegenden Arbeit untersucht werden. Ich versuche einen Überblick zu geben, auf welche Ansprüche sich das Jagdrecht gründete, warum der Adel es für sich in Anspruch nahm und wie es sich in der frühen Neuzeit entwickelte. Die Bedeutung der Jagd für den Adel und welche Interessen mit der Durchführung verfolgt werden, soll ebenso behandelt werden, wie die mit der Jagd verbundenen Belastungen, wie Frondienste und Wildschäden. Die verschiedenen Jagdmittel und der genaue Aufbau einer Jagd werden hier nur nebenbei betrachtet. Die verschiedenen Formen und Ausprägungen von Jagdarten werde ich nicht weiter beleuchten.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9783656267133"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "3656267138"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 16,
+                "printType": "BOOK",
+                "categories": [
+                    "History"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.5.2.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=IpO6lKuhWmgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=IpO6lKuhWmgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "de",
+                "previewLink": "http://books.google.com.hk/books?id=IpO6lKuhWmgC&printsec=frontcover&dq=subject:HISTORY&hl=&cd=8&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=IpO6lKuhWmgC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=IpO6lKuhWmgC"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 60.84,
+                    "currencyCode": "HKD"
+                },
+                "retailPrice": {
+                    "amount": 45.63,
+                    "currencyCode": "HKD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=IpO6lKuhWmgC&rdid=book-IpO6lKuhWmgC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 60840000,
+                            "currencyCode": "HKD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 45630000,
+                            "currencyCode": "HKD"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Jagd_in_der_Neuzeit_Wandel_von_ritterlic-sample-pdf.acsm?id=IpO6lKuhWmgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=IpO6lKuhWmgC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "AUslBAAAQBAJ",
+            "etag": "8Sp972TeYOY",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/AUslBAAAQBAJ",
+            "volumeInfo": {
+                "title": "Illustrierte Geschichte der Medizin",
+                "subtitle": "Von der französischen Revolution bis zur Gegenwart",
+                "authors": [
+                    "Wolfgang U. Eckart"
+                ],
+                "publisher": "Springer-Verlag",
+                "publishedDate": "2010-11-18",
+                "description": "Mit diesem Buch bekommen Sie einen kurzweiligen und fundierten Überblick über die Meilensteine der Medizin. Nach einem Abriss über die Medizingeschichte von der Antike bis zur Aufklärung werden nachvollziehbar und nah die wegleitenden Entwicklungen seit der Französischen Revolution fokussiert. Der Autor nimmt Sie mit in den Wandel, in 18 Kapiteln stellt er die Entwicklungen in den zeitlichen Kontext. Zahlreiche Bilder und informative Exkurse beschreiben den Fortschritt anschaulich vor dem historischen Hintergrund. Das Buch ist keine stumpfe chronologische Abhandlung, jedes Kapitel lädt zum Schmökern ein, liefert spannende Geschichte, verbindet Neues und Bekanntes und erschließt dem Leser manchen Zusammenhang auf neue Weise. Ideal als Geschenk, zum Schmökern und zum Vertiefen.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9783642126109"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "3642126103"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 374,
+                "printType": "BOOK",
+                "categories": [
+                    "Science"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.4.2.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=AUslBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=AUslBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "de",
+                "previewLink": "http://books.google.com.hk/books?id=AUslBAAAQBAJ&printsec=frontcover&dq=subject:HISTORY&hl=&cd=9&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=AUslBAAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=AUslBAAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 314.9,
+                    "currencyCode": "HKD"
+                },
+                "retailPrice": {
+                    "amount": 220.43,
+                    "currencyCode": "HKD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=AUslBAAAQBAJ&rdid=book-AUslBAAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 314900000,
+                            "currencyCode": "HKD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 220430000,
+                            "currencyCode": "HKD"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Illustrierte_Geschichte_der_Medizin-sample-pdf.acsm?id=AUslBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=AUslBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "GOpJQ5ud_2MC",
+            "etag": "sIIls+yc0Xs",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/GOpJQ5ud_2MC",
+            "volumeInfo": {
+                "title": "Still Fighting the Civil War",
+                "subtitle": "The American South and Southern History",
+                "authors": [
+                    "David Goldfield"
+                ],
+                "publisher": "LSU Press",
+                "publishedDate": "2004-03-01",
+                "description": "Newcomers to the South often remark that southerners, at least white southerners, are still fighting the Civil War -- a strange preoccupation considering that the war formally ended more than one hundred and thirty-five years ago and fewer than a third of southerners today can claim an ancestor who actually fought in the conflict. But even if the war is far removed both in time and genealogy, it survives in the hearts of many of the region's residents and often in national newspaper headlines concerning battle flags, racial justice, and religious conflicts. In this sweeping narrative of the South from the Civil War to the present, noted historian David Goldfield contemplates the roots of southern memory and explains how this memory has shaped the modern South both for good and ill. He candidly discusses how and why white southern men fashioned the myths of the Lost Cause and the Redemption out of the Civil War and Reconstruction and how they shaped a religion to canonize the heroes and reify the events of those fated years. Goldfield also recounts how blacks and white women eventually crafted a different, more inclusive version of southern history and how that new vision has competed with more traditional perspectives. As Goldfield shows, the battle for southern history, and for the South, continues -- in museums, public spaces, books, state legislatures, and the minds of southerners. Given the region's growing economic power and political influence, the outcome of this war is more than a historian's preoccupation; it is of national importance. Integrating history and memory, religion, race, and gender, Still Fighting the Civil War will help newcomers, longtime residents, and curious outsiders alike attain a better understanding of the South and each other.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780807147948"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "080714794X"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": false
+                },
+                "pageCount": 376,
+                "printType": "BOOK",
+                "categories": [
+                    "History"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "4.5.6.0.preview.2",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=GOpJQ5ud_2MC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=GOpJQ5ud_2MC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=GOpJQ5ud_2MC&dq=subject:HISTORY&hl=&cd=10&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=GOpJQ5ud_2MC&dq=subject:HISTORY&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Still_Fighting_the_Civil_War.html?hl=&id=GOpJQ5ud_2MC"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true
+                },
+                "pdf": {
+                    "isAvailable": true
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=GOpJQ5ud_2MC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        }
+    ]
+}

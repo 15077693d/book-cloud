@@ -1,0 +1,793 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 496,
+    "items": [
+        {
+            "kind": "books#volume",
+            "id": "n1NjDwAAQBAJ",
+            "etag": "/BHf2a+XpQs",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/n1NjDwAAQBAJ",
+            "volumeInfo": {
+                "title": "Fitzgerald's Greatest Stories: His 13 Most Notable Short Stories: Bernice Bobs Her Hair + The Curious Case of Benjamin Button + The Diamond as Big as the Ritz + Winter Dreams + Babylon Revisited and more...",
+                "authors": [
+                    "F. Scott Fitzgerald"
+                ],
+                "publisher": "e-artnow",
+                "publishedDate": "2013-11-20",
+                "description": "This carefully crafted ebook: \"Fitzgerald's Greatest Stories\" contains 13 most notable short stories in one volume and is formatted for your eReader with a functional and detailed table of contents. Content: \"Bernice Bobs Her Hair\" (1920) (in Flappers and Philosophers) \"Head and Shoulders\" (1920) (in Flappers and Philosophers) \"The Ice Palace\" (1920) (in Flappers and Philosophers and Babylon Revisited and Other Stories) \"The Offshore Pirate\" (1920) (in Flappers and Philosophers) \"The Curious Case of Benjamin Button\" (1921) (in Tales of the Jazz Age) \"The Diamond as Big as the Ritz\" (1922) (in Tales of the Jazz Age) \"Winter Dreams\" (1922) (in All the Sad Young Men) \"The Baby Party\" (1925) (in All the Sad Young Men) \"The Freshest Boy\" (1928) (in Taps at Reveille) \"The Bridal Party\" (1930) \"A New Leaf\" (1931) \"Babylon Revisited\" (1931) (in Babylon Revisited and Other Stories) \"Crazy Sunday\" (1932) (in Babylon Revisited and Other Stories) Francis Scott Key Fitzgerald (1896 – 1940) was an American author of novels and short stories, whose works are the paradigmatic writings of the Jazz Age, a term he coined. He is widely regarded as one of the greatest American writers of the 20th century.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9788026802617"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "8026802616"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 100,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.2.3.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=n1NjDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=n1NjDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=n1NjDwAAQBAJ&printsec=frontcover&dq=subject:FICTION&hl=&cd=1&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=n1NjDwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=n1NjDwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 4.46,
+                    "currencyCode": "HKD"
+                },
+                "retailPrice": {
+                    "amount": 4.46,
+                    "currencyCode": "HKD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=n1NjDwAAQBAJ&rdid=book-n1NjDwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 4460000,
+                            "currencyCode": "HKD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 4460000,
+                            "currencyCode": "HKD"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Fitzgerald_s_Greatest_Stories_His_13_Mos-sample-epub.acsm?id=n1NjDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Fitzgerald_s_Greatest_Stories_His_13_Mos-sample-pdf.acsm?id=n1NjDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=n1NjDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "4mmarVlnc8oC",
+            "etag": "1WlI+XJKASI",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/4mmarVlnc8oC",
+            "volumeInfo": {
+                "title": "Miss Dreamsville and the Collier County Women's Literary Society",
+                "subtitle": "A Novel",
+                "authors": [
+                    "Amy Hill Hearth"
+                ],
+                "publisher": "Simon and Schuster",
+                "publishedDate": "2012-10-02",
+                "description": "TOGETHER THEY FOUND THE ONE THING THAT ELUDED THEM AS INDIVIDUALS: A PLACE IN THE WORLD.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781451675238"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1451675232"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 259,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "averageRating": 3.5,
+                "ratingsCount": 22,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=4mmarVlnc8oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=4mmarVlnc8oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=4mmarVlnc8oC&printsec=frontcover&dq=subject:FICTION&hl=&cd=2&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=4mmarVlnc8oC&dq=subject:FICTION&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Miss_Dreamsville_and_the_Collier_County.html?hl=&id=4mmarVlnc8oC"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=4mmarVlnc8oC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "nhR58UIH1N4C",
+            "etag": "4sivD1Kt0NA",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/nhR58UIH1N4C",
+            "volumeInfo": {
+                "title": "How to Succeed in Murder",
+                "subtitle": "Easyread Large Bold Edition",
+                "authors": [
+                    "Margaret Dumas"
+                ],
+                "publisher": "ReadHowYouWant.com",
+                "publishedDate": "2009-09-16",
+                "description": "Charley Fairfax - heiress, theatrical producer, newlywed - has every intention of living happily ever after with her tall, dark, and sarcastic husband Jack. The only mysteries she faces are which play to choose for next season and how to decorate her dining room. But when Jack is hired to investigate a suspicious death at a San Francisco software company, it quickly becomes clear that high-tech has some low-life elements. The only way Charley knows how to help Jack involves doing something no-body thought she would ever do. Charley needs to get a job. It might be a problem that Charley and her band of irregulars from the repertory theater learned everything they know about the workplace from a production of How To Succeed In Business Without Really Trying, but that doesn't stop them from going undercover to find a killer. And even though she's only had one day's training in corporate double-speak, Charley isn't worried. Faking it has always been her strong suit. Charley and Jack are starting to get the hang of this marriage thing. If only people would stop talking about babies, introducing them to decorators, and trying to kill them, they might even get to take a honeymoon.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781458717993"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1458717992"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 480,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "averageRating": 2,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=nhR58UIH1N4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=nhR58UIH1N4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=nhR58UIH1N4C&printsec=frontcover&dq=subject:FICTION&hl=&cd=3&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=nhR58UIH1N4C&dq=subject:FICTION&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/How_to_Succeed_in_Murder.html?hl=&id=nhR58UIH1N4C"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=nhR58UIH1N4C&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "I6to6a9Eg_YC",
+            "etag": "j9HV/V4xseI",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/I6to6a9Eg_YC",
+            "volumeInfo": {
+                "title": "Rediscovering Mrs. Murphy",
+                "authors": [
+                    "Craig S. Austin"
+                ],
+                "publisher": "AuthorHouse",
+                "publishedDate": "2007-10",
+                "description": "Johnny Bates is incarcerated in the minimum-security correctional facility fighting boredom. One day he learns about an injustice that is being visited upon certain convicts in the maximum-security prison by one of the prison guards. Johnny decides he must be the one to right the wrong. To do that, he must return to maximum-security, to the Walls. Once again in maximum-security, Johnny happily reunites with his old friends from his earlier stay, both convict and guard. He works his way into the place and position he wants and needs in order to complete his mission, while here he learns again the habits of the officers and other convicts and plans the method by which he will put an end to the injustice. Inside the Walls, a lot has changed and Johnny finds himself violently thrust into the most recent problem confronting inmates as well as the prison administration, the problem of juveniles who've been sentenced as adults. The new trouble does serve to keep the attention of the security staff focused away from Johnny, so although it's a distraction, it's not as bad as it seems at first. As he told the warden, \"I'm glad I ain't your biggest problem no more.\" Johnny manages to right the wrong, to wreak the kind of justice (punishment) that will be understood and accepted in prison culture, a culture which seems to be slightly out of step with that of free society, but upon closer inspection is frighteningly similar. The book illustrates that prison is not entirely a war between good (security staff) and bad (convicts), but a way of life with love and hate, fear and humor, and pleasure as well as hard knocks. In prison as well as on the outside, life is what you make of it with the cards you are dealt.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781418453930"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1418453935"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 440,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=I6to6a9Eg_YC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=I6to6a9Eg_YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=I6to6a9Eg_YC&printsec=frontcover&dq=subject:FICTION&hl=&cd=4&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=I6to6a9Eg_YC&dq=subject:FICTION&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Rediscovering_Mrs_Murphy.html?hl=&id=I6to6a9Eg_YC"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=I6to6a9Eg_YC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "hMtCDwAAQBAJ",
+            "etag": "umPhnmZTaMw",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/hMtCDwAAQBAJ",
+            "volumeInfo": {
+                "title": "少年維特的煩惱(雙語版)",
+                "subtitle": "英語學習專家 克萊兒老師專業推薦",
+                "authors": [
+                    "約翰· 沃爾夫岡· 馮· 歌德"
+                ],
+                "publisher": "崧博出版事業有限公司",
+                "publishedDate": "2017-12-12",
+                "description": "《少年維特的煩惱》是歐洲啟蒙運動時期最偉大的作品之一。少年維特受過良好的教育，他熱愛自然、多愁善感、坦誠可愛、嚮往平等。為了追求自由的生活，他來到一個風景宜人的偏僻山村。在一次鄉村舞會上，維特對天使一般的少女夏洛蒂一見鍾情，夏洛蒂也喜歡他，然而她卻已經訂婚。維特陷入了尷尬和痛苦，為了忘掉這段不可能有結果的感情，他毅然離開此地，去了一個很遠的地方任低級官員。然而，鄙陋的環境、污濁的人際關係、壓抑個性、窒息自由的現存秩序，都使他無法忍受。維特憤然辭職並回到夏洛蒂生活的地方，而此時的夏洛蒂已結婚。愛情的挫折、理想與現實的衝突把他逼入了絕望，困境中的維特最後用自殺的方式結束了自己年輕的生命。該書一出版即風靡整個歐洲大陸，掀起了一股“維特熱”，並很快成為第一部產生重大國際影響的德國文學作品。兩個世紀以來，該書被譯成世界上幾十種語言。書中所展現的苦澀愛情故事震撼了一代又一代青少年的心靈。無論作為語言學習的課本，還是作為通俗的文學讀本，本書對當代中國的青少年都將產生積極的影響。",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9789864926305"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "9864926306"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.1.2.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=hMtCDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=hMtCDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "zh-TW",
+                "previewLink": "http://books.google.com.hk/books?id=hMtCDwAAQBAJ&printsec=frontcover&dq=subject:FICTION&hl=&cd=5&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=hMtCDwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=hMtCDwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 33.8,
+                    "currencyCode": "HKD"
+                },
+                "retailPrice": {
+                    "amount": 28.05,
+                    "currencyCode": "HKD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=hMtCDwAAQBAJ&rdid=book-hMtCDwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 33800000,
+                            "currencyCode": "HKD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 28050000,
+                            "currencyCode": "HKD"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/%E5%B0%91%E5%B9%B4%E7%B6%AD%E7%89%B9%E7%9A%84%E7%85%A9%E6%83%B1_%E9%9B%99%E8%AA%9E%E7%89%88-sample-epub.acsm?id=hMtCDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/%E5%B0%91%E5%B9%B4%E7%B6%AD%E7%89%B9%E7%9A%84%E7%85%A9%E6%83%B1_%E9%9B%99%E8%AA%9E%E7%89%88-sample-pdf.acsm?id=hMtCDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=hMtCDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "GDSHpbXoWssC",
+            "etag": "sUBh2j/NwP0",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/GDSHpbXoWssC",
+            "volumeInfo": {
+                "title": "Golden Boy",
+                "subtitle": "A Novel",
+                "authors": [
+                    "Abigail Tarttelin"
+                ],
+                "publisher": "Simon and Schuster",
+                "publishedDate": "2013-05-21",
+                "description": "Presenting themselves to the world as an effortlessly excellent family, successful criminal lawyer Karen, her Parliament candidate husband and her intelligent athlete son, Max, find their world crumbling in the wake of a friend's betrayal and the secret about Max's intersexual identity.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781476705804"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1476705801"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 352,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 18,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=GDSHpbXoWssC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=GDSHpbXoWssC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=GDSHpbXoWssC&printsec=frontcover&dq=subject:FICTION&hl=&cd=6&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=GDSHpbXoWssC&dq=subject:FICTION&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Golden_Boy.html?hl=&id=GDSHpbXoWssC"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=GDSHpbXoWssC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "vs56YAA0gR8C",
+            "etag": "09i0tTTXB6Y",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/vs56YAA0gR8C",
+            "volumeInfo": {
+                "title": "Fever Dream",
+                "authors": [
+                    "Dennis Palumbo"
+                ],
+                "publisher": "Poisoned Pen Press Inc",
+                "publishedDate": "2011-12-31",
+                "description": "On a blistering summer day, a bank robbery goes wrong, resulting in the deaths of all the hostages except Treva Williams. Pittsburgh psychologist and trauma expert Daniel Rinaldi is called in by the police to treat Treva. Soon an unforeseen series of events plunges the investigating officers, Sergeant Harry Polk, Detective Eleanor Lowrey, and Rinaldi into a vortex of mistaken identity, kidnapping, and surprising revelations about District Attorney Leland Sinclair's gubernatorial campaign. Is Sinclair somehow involved in the bank case? Rinaldi's attention is diverted by the suicide of a young patient and his growing attraction to Eleanor, as the recently-divorced Harry Polk spirals into an alcohol-driven, self-destructive free-fall. Then sudden death threats against Sinclair fuel a new frenzy of accusations and political maneuvering, and Rinaldi begins to make connections. Soon, what he knows - or thinks he knows - will pull him toward a shocking and possibly lethal confrontation.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781615953271"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1615953272"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 342,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "averageRating": 5,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.8.8.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=vs56YAA0gR8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=vs56YAA0gR8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=vs56YAA0gR8C&printsec=frontcover&dq=subject:FICTION&hl=&cd=7&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=vs56YAA0gR8C&dq=subject:FICTION&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Fever_Dream.html?hl=&id=vs56YAA0gR8C"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true
+                },
+                "pdf": {
+                    "isAvailable": true
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=vs56YAA0gR8C&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "jbhtLNrheUYC",
+            "etag": "tRI+v4G9Wwc",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/jbhtLNrheUYC",
+            "volumeInfo": {
+                "title": "The Lover's Knot",
+                "subtitle": "A Someday Quilts Mystery",
+                "authors": [
+                    "Clare O'Donohue"
+                ],
+                "publisher": "Penguin",
+                "publishedDate": "2008-09-30",
+                "description": "Book #1 of the Someday Quilts Mystery series In the tradition of Jennifer Chiaverini and Emilie Richards, a debut quilting mystery Nell Fitzgerald is thrilled when she receives a gorgeous handmade quilt in a lover's knot pattern from her grandmother Eleanor as an engagement gift. Her joy is short-lived, however, when her fiancé announces he's calling off the wedding. Heartbroken, 25-year-old Nell flees New York City for her grandmother's home in quaint Archers Rest. In this small town Eleanor's life revolves around her quilt shop, Someday Quilts, and the members of the shop's quilting circle. When the body of a local handyman known for his flirting is found in the quilt shop, murdered with a pair of quilting scissors, Nell finds herself drawn into the case, and drawn to the handsome police chief. As a pattern of clues begins to emerge, one of the prime suspects is Nell's ex-fiancé, whose arrival in Archers Rest seems suspicious. The ladies of the quilting circle continue to piece together their quilts as Nell unravels the mystery. For quilters and mystery lovers alike, The Lover's Knot is a delightful and promising debut.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781440637582"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "144063758X"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": false
+                },
+                "pageCount": 304,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 9,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "4.12.6.0.preview.2",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=jbhtLNrheUYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=jbhtLNrheUYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=jbhtLNrheUYC&printsec=frontcover&dq=subject:FICTION&hl=&cd=8&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=jbhtLNrheUYC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=jbhtLNrheUYC"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 112.76,
+                    "currencyCode": "HKD"
+                },
+                "retailPrice": {
+                    "amount": 76.68,
+                    "currencyCode": "HKD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=jbhtLNrheUYC&rdid=book-jbhtLNrheUYC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 112760000,
+                            "currencyCode": "HKD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 76680000,
+                            "currencyCode": "HKD"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/The_Lover_s_Knot-sample-epub.acsm?id=jbhtLNrheUYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=jbhtLNrheUYC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "WSNgp_QO_6wC",
+            "etag": "1Wq0Q/a8nfc",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/WSNgp_QO_6wC",
+            "volumeInfo": {
+                "title": "Atlantis",
+                "subtitle": "Remembrance of Things Past",
+                "authors": [
+                    "A. Grey"
+                ],
+                "publisher": "iUniverse",
+                "publishedDate": "2002-11-01",
+                "description": "Remnants of the lost continent of Atlantis have been found in the Caribbean off the island of Bimini. Atlantis—Remembrance of Things Past opens with this archaeological find that causes the main character, Lea Sitnalta—a modern-day, mysterious, high-powered, female executive of the Archaeology Magazine, Sojourne—to take a mysterious journey back into an ancient mystical, magical realm. The love story is set against the backdrop of war between Atlantis and Athens—as described by Plato—right before the Earth Changes and deluge occur—as described by Cayce—that destroy the continent of Atlantis. The novel contrasts the ancientcataclysm with the recurrent and fast approaching future tragedy of Earth Changes to this planet.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780595245819"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0595245811"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 192,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.1.1.0.preview.3",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=WSNgp_QO_6wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=WSNgp_QO_6wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=WSNgp_QO_6wC&printsec=frontcover&dq=subject:FICTION&hl=&cd=9&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=WSNgp_QO_6wC&dq=subject:FICTION&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Atlantis.html?hl=&id=WSNgp_QO_6wC"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Atlantis-sample-epub.acsm?id=WSNgp_QO_6wC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=WSNgp_QO_6wC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "r3itCwAAQBAJ",
+            "etag": "gXhvff1stfA",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/r3itCwAAQBAJ",
+            "volumeInfo": {
+                "title": "Black Oak 5",
+                "subtitle": "When the Cold Wind Blows",
+                "authors": [
+                    "Charles L. Grant"
+                ],
+                "publisher": "Crossroad Press",
+                "publishedDate": "2016-03-04",
+                "description": "A LONG-LOST FRIEND Black Oak Security is a crack team of private investigators led by brilliant, enigmatic Ethan Proctor, who has just received a cryptic message from an old friend of his father. Proctor is being asked to look into a series of disappearances and brutal mutilations in the swampy woodlands northwest of Atlanta, Georgia. Some think the culprit is a real-life wolfman, A LONG-HIDDEN SECRET What Proctor doesn’t know is that the terror in the swampy backwoods is linked to something much more personal. It is an evil mystery that has haunted Proctor for months. And when he uncovers the truth, he will be lucky to survive it …",
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=r3itCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=r3itCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=r3itCwAAQBAJ&printsec=frontcover&dq=subject:FICTION&hl=&cd=10&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=r3itCwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=r3itCwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 30.92,
+                    "currencyCode": "HKD"
+                },
+                "retailPrice": {
+                    "amount": 25.66,
+                    "currencyCode": "HKD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=r3itCwAAQBAJ&rdid=book-r3itCwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 30920000,
+                            "currencyCode": "HKD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 25660000,
+                            "currencyCode": "HKD"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Black_Oak_5-sample-epub.acsm?id=r3itCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Black_Oak_5-sample-pdf.acsm?id=r3itCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=r3itCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        }
+    ]
+}

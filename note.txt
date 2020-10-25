@@ -1,0 +1,29 @@
+-1. create project
+
+0. create app
+- folder
+- templates -> html
+- views
+- model !!!!
+- root -> urls
+
+1. makemigration vs migration -> for db
+- makemigration: create sql command etc create table music
+- migrate: execute sql click enter
+
+2. CRUD
+- python mange.py shell
+- from musics.models import Music
+
+- Create -> Music.objects.create()
+- Read -> Music.objects.get(pk=1)/Music.objects.all()/Music.objects.filter()
+- Update -> (Music.objects.get(pk=1)/Music.objects.all()/Music.objects.filter()).update()
+- Delete -> (Music.objects.get(pk=1)/Music.objects.all()/Music.objects.filter()).delete()
+
+3. go admin page see see music model
+- python mange.py createsuperuser
+- register model
+
+4. serializer
+- seriailzer -> db data 2 json
+- deseriailzer -> json 2 python object

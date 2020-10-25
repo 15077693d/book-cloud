@@ -1,0 +1,879 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 497,
+    "items": [
+        {
+            "kind": "books#volume",
+            "id": "GxYrBgAAQBAJ",
+            "etag": "4qnnO3fKnwE",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/GxYrBgAAQBAJ",
+            "volumeInfo": {
+                "title": "Environment and Democratic Transition:",
+                "subtitle": "Policy and Politics in Central and Eastern Europe",
+                "authors": [
+                    "A. Vari",
+                    "Pal Tamas"
+                ],
+                "publisher": "Springer Science & Business Media",
+                "publishedDate": "2013-03-14",
+                "description": "Recent democratization and the accompanied liberalization of the media in Central and Eastern Europe has brought the devastating environmental impacts of the intensive and careless industrialization of the last 40 years to the surface. Less is known, however, about the social, political and institutional background of environmental risk management which led to the present situation, as well as about recent changes. Environment and Democratic Transition: Policy and Politics in Central and Eastern Europe provides an overview of the mechanism of policy making, the role of the scientific community, the environmental movements, and the public in risk controversies in Central and Eastern Europe from the 1970s until 1991. The book brings together studies by leading social scientists from the East and the West who investigate the economic, legal, institutional, behavioral, social and political aspects of environmental policy. In addition to analyzing past histories, most contributions focus also on challenges, pitfalls and dilemmas that the region's policy makers and environmentalists must face during the period of transition and into the future.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9789401581202"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "9401581207"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 286,
+                "printType": "BOOK",
+                "categories": [
+                    "Technology & Engineering"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.2.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=GxYrBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=GxYrBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=GxYrBgAAQBAJ&printsec=frontcover&dq=subject:NATURE&hl=&cd=1&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=GxYrBgAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=GxYrBgAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "FOR_SALE_AND_RENTAL",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 1456.6,
+                    "currencyCode": "HKD"
+                },
+                "retailPrice": {
+                    "amount": 1019.62,
+                    "currencyCode": "HKD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=GxYrBgAAQBAJ&rdid=book-GxYrBgAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 1456600000,
+                            "currencyCode": "HKD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 1019620000,
+                            "currencyCode": "HKD"
+                        }
+                    },
+                    {
+                        "finskyOfferType": 3,
+                        "listPrice": {
+                            "amountInMicros": 509840000,
+                            "currencyCode": "HKD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 509840000,
+                            "currencyCode": "HKD"
+                        },
+                        "rentalDuration": {
+                            "unit": "DAY",
+                            "count": 90
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Environment_and_Democratic_Transition-sample-epub.acsm?id=GxYrBgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Environment_and_Democratic_Transition-sample-pdf.acsm?id=GxYrBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=GxYrBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "Fy_7CAAAQBAJ",
+            "etag": "wT4h9PRBoGU",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/Fy_7CAAAQBAJ",
+            "volumeInfo": {
+                "title": "Computer Supported Risk Management",
+                "authors": [
+                    "Giampiero Beroggi",
+                    "W.A. Wallace"
+                ],
+                "publisher": "Springer Science & Business Media",
+                "publishedDate": "2012-12-06",
+                "description": "Advances in information technology provide opportunities for the development of computer systems that support risk managers in complex tasks. Leading experts report on the potentials and limitations concerning the use of computer systems in risk management. Their reports are based on many years of experience in their fields which include: risk analysis, systems engineering, geographic information systems, decision support systems, human--machine systems, and psychology. The book addresses four major issues in computer supported risk management: Conceptual aspects: the role, design, and use of computers in risk management Planning and policy analysis: transportation, equity analysis, emergency management, group decision making Operational decision making: nuclear power monitoring, emergency response, public safety warning, satellite tracking Commercial applications: GIS from IIASA, InterClair from IAEA, EPA software, cleanup decision support software survey. This book is meant for researchers, who will find the emerging issues in risk management that are motivated by the encounter of new tasks and novel technology; practitioners who will have descriptions and references of the state-of-the-art models and software; and students who will learn the basic concepts needed to develop advanced information and decision support systems in risk management.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9789401102452"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "9401102457"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 373,
+                "printType": "BOOK",
+                "categories": [
+                    "Technology & Engineering"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.1.1.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=Fy_7CAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=Fy_7CAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=Fy_7CAAAQBAJ&printsec=frontcover&dq=subject:NATURE&hl=&cd=2&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=Fy_7CAAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Fy_7CAAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "FOR_SALE_AND_RENTAL",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 1820.77,
+                    "currencyCode": "HKD"
+                },
+                "retailPrice": {
+                    "amount": 1274.54,
+                    "currencyCode": "HKD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=Fy_7CAAAQBAJ&rdid=book-Fy_7CAAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 1820770000,
+                            "currencyCode": "HKD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 1274540000,
+                            "currencyCode": "HKD"
+                        }
+                    },
+                    {
+                        "finskyOfferType": 3,
+                        "listPrice": {
+                            "amountInMicros": 637300000,
+                            "currencyCode": "HKD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 637300000,
+                            "currencyCode": "HKD"
+                        },
+                        "rentalDuration": {
+                            "unit": "DAY",
+                            "count": 90
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Computer_Supported_Risk_Management-sample-pdf.acsm?id=Fy_7CAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=Fy_7CAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "ZNvqCAAAQBAJ",
+            "etag": "tqRIkhlS8jY",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/ZNvqCAAAQBAJ",
+            "volumeInfo": {
+                "title": "Air Pollution Processes in Regional Scale",
+                "authors": [
+                    "Dimitrios Melas",
+                    "Dimiter Syrakov"
+                ],
+                "publisher": "Springer Science & Business Media",
+                "publishedDate": "2012-12-06",
+                "description": "An understanding of long-range transport of air pollutants in the atmosphere requires a knowledge of the relevant atmospheric dynamic and chemical processes active at the regional scale as well as the temporal and spatial distribution of emissions. Numerical modeling is the most efficient way to determine the atmospheric transport, photochemistry and deposition pathways. The book therefore discusses the physical and chemical processes that determine regional air pollution and presents the relevant modeling techniques to describe the different atmospheric processes that are active at that scale.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9789400710719"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "9400710712"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 408,
+                "printType": "BOOK",
+                "categories": [
+                    "Science"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.1.1.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=ZNvqCAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=ZNvqCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=ZNvqCAAAQBAJ&printsec=frontcover&dq=subject:NATURE&hl=&cd=3&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=ZNvqCAAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZNvqCAAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "FOR_SALE_AND_RENTAL",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 1001.38,
+                    "currencyCode": "HKD"
+                },
+                "retailPrice": {
+                    "amount": 700.97,
+                    "currencyCode": "HKD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=ZNvqCAAAQBAJ&rdid=book-ZNvqCAAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 1001380000,
+                            "currencyCode": "HKD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 700970000,
+                            "currencyCode": "HKD"
+                        }
+                    },
+                    {
+                        "finskyOfferType": 3,
+                        "listPrice": {
+                            "amountInMicros": 350520000,
+                            "currencyCode": "HKD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 350520000,
+                            "currencyCode": "HKD"
+                        },
+                        "rentalDuration": {
+                            "unit": "DAY",
+                            "count": 90
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Air_Pollution_Processes_in_Regional_Scal-sample-pdf.acsm?id=ZNvqCAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=ZNvqCAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "hHmRPYQa_bQC",
+            "etag": "5M8tAhzl+pU",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/hHmRPYQa_bQC",
+            "volumeInfo": {
+                "title": "Pearls and Pebbles",
+                "authors": [
+                    "Catharine Parr Traill"
+                ],
+                "publisher": "Dundurn",
+                "publishedDate": "1999-11-15",
+                "description": "How fitting to close out the 20th century with a brand new edition of Pearls & Pebbles by the noted chronicler of pioneer life, Catharine Parr Traill. Published in 1894, Pearls & Pebbles is an unusual book with a lasting charm, in which the author’s broad focus ranges from the Canadian natural environment to early settlement of Upper Canada. Through Traill’s eyes, we see the life of the pioneer woman, the disappearance of the forest, and the corresponding changes in the life of the Native Canadians who have inhabited that forest. Editor Elizabeth Thompson reminds us of the significance of the writings by Traill, the aged author/naturalist, who felt that the hours spent gathering the pebbles and pearls from her notebooks and journals written in the backwoods of Canada was not time wasted.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781459718364"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1459718364"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 240,
+                "printType": "BOOK",
+                "categories": [
+                    "Nature"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "3.11.12.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=hHmRPYQa_bQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=hHmRPYQa_bQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=hHmRPYQa_bQC&printsec=frontcover&dq=subject:NATURE&hl=&cd=4&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=hHmRPYQa_bQC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=hHmRPYQa_bQC"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 53.02,
+                    "currencyCode": "HKD"
+                },
+                "retailPrice": {
+                    "amount": 39.76,
+                    "currencyCode": "HKD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=hHmRPYQa_bQC&rdid=book-hHmRPYQa_bQC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 53020000,
+                            "currencyCode": "HKD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 39760000,
+                            "currencyCode": "HKD"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true
+                },
+                "pdf": {
+                    "isAvailable": true
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=hHmRPYQa_bQC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "Bp7RDEZyxWcC",
+            "etag": "Tnuugd4oM+Y",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/Bp7RDEZyxWcC",
+            "volumeInfo": {
+                "title": "Indians, Markets, and Rainforests",
+                "subtitle": "Theoretical, Comparative, and Quantitative Explorations in the Neotropics",
+                "authors": [
+                    "Ricardo Godoy"
+                ],
+                "publisher": "Columbia University Press",
+                "publishedDate": "2001-08-01",
+                "description": "This book addresses two important and related questions: does participation in a market economy help or hurt indigenous peoples and how does it affect the conservation of tropical rainforest flora and fauna? Oddly, there have been few quantitative studies that have addressed these issues. Ricardo Godoy's research takes an important step toward rectifying this oversight by investigating five different lowland Amerindian societies of tropical Latin America—all of which are experiencing deep changes as they modernize. Godoy examines the effect of markets on a broad range of areas including health, conservation of flora and fauna, leisure, folk knowledge, reciprocity, and private time preference. He concludes that, contrary to considerable anthropological theory, the effect of markets on the quality of life and the rainforest are often unclear or benign. Godoy uses multivariate techniques to examine the changes modernization has had on many indicators of the quality of life and the environment and concludes that the seeds of socioeconomic differentiation may already lie dormant in simple economies. The impact of modernization on lowland Amerindians is a topic of great concern to anthropologists, researchers, and policymakers in developing nations, and this book is a significant contribution to the debate about the likely future of indigenous people.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780231505031"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0231505035"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 352,
+                "printType": "BOOK",
+                "categories": [
+                    "Nature"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.10.10.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=Bp7RDEZyxWcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=Bp7RDEZyxWcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=Bp7RDEZyxWcC&printsec=frontcover&dq=subject:NATURE&hl=&cd=5&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=Bp7RDEZyxWcC&dq=subject:NATURE&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Indians_Markets_and_Rainforests.html?hl=&id=Bp7RDEZyxWcC"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Indians_Markets_and_Rainforests-sample-epub.acsm?id=Bp7RDEZyxWcC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Indians_Markets_and_Rainforests-sample-pdf.acsm?id=Bp7RDEZyxWcC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=Bp7RDEZyxWcC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "_fjaJ6XXAAQC",
+            "etag": "e/NrxfJ5ptc",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/_fjaJ6XXAAQC",
+            "volumeInfo": {
+                "title": "Traditional use of plant resources by bankariya ethnic group in Makawanpur district, central Nepal",
+                "authors": [
+                    "Y. Uprety",
+                    "Emmanuel Boon",
+                    "R.C. Poudel"
+                ],
+                "publisher": "GRIN Verlag",
+                "publishedDate": "2008-05-14",
+                "description": "Scientific Study from the year 2008 in the subject Environmental Sciences, grade: none, Vrije University Brussel (Human Ecology Department), 32 entries in the bibliography, language: English, abstract: An ethonobotanical study was conducted to document the traditional use of plants and to find out the potential economic value of plants used by the indigenous ‘Bankariya’ people of Central Nepal. Personal interviews and group discussions were conducted to gather information on the indigenous knowledge of this ethnic group. A checklist of ‘categories of plant use’ was developed and used to identify, categorize and document plant species in the Twanrakhola community. Altogether, 109 plant species belonging to 49 families and 84 genera used for a wide range of purposes in the community are recorded. The people are highly dependent on forest and forest products. Because of their long experience with forests, the ‘Bankariya’ people have acquired rich knowledge about the utilization of plant resources in various ways. The Twanrakhola community harbours a high diversity of medicinal plants and wild edible plants. Despite the gradual economic and socio-cultural transformation in the life style of the community members because of globalisation, the Bankariya people still possess substantial knowledge of plants and their uses. Sustainable harvesting of and trade in medicinal and wild edible plants could be a significant source of subsistence and income generation for the local population.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9783638049412"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "3638049418"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 25,
+                "printType": "BOOK",
+                "categories": [
+                    "Nature"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.16.14.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=_fjaJ6XXAAQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=_fjaJ6XXAAQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=_fjaJ6XXAAQC&printsec=frontcover&dq=subject:NATURE&hl=&cd=6&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=_fjaJ6XXAAQC&dq=subject:NATURE&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Traditional_use_of_plant_resources_by_ba.html?hl=&id=_fjaJ6XXAAQC"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Traditional_use_of_plant_resources_by_ba-sample-epub.acsm?id=_fjaJ6XXAAQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Traditional_use_of_plant_resources_by_ba-sample-pdf.acsm?id=_fjaJ6XXAAQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=_fjaJ6XXAAQC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "mDYsoQFIBrMC",
+            "etag": "8waCEpZTXNM",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/mDYsoQFIBrMC",
+            "volumeInfo": {
+                "title": "Evolutionary Ecology",
+                "subtitle": "The Trinidadian Guppy",
+                "authors": [
+                    "Anne E. Magurran"
+                ],
+                "publisher": "Oxford University Press",
+                "publishedDate": "2005-08-25",
+                "description": "The Trinidadian guppy represents a uniguely tractable vertebrate system, which has raised key questions in evolutionary ecology and supplied many of the answers. This work discusses this study and incorporates significant new findings and insights.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0198527853"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780198527855"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 206,
+                "printType": "BOOK",
+                "categories": [
+                    "Nature"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=mDYsoQFIBrMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=mDYsoQFIBrMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=mDYsoQFIBrMC&printsec=frontcover&dq=subject:NATURE&hl=&cd=7&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=mDYsoQFIBrMC&dq=subject:NATURE&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Evolutionary_Ecology.html?hl=&id=mDYsoQFIBrMC"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=mDYsoQFIBrMC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "dEpZV0ke3lMC",
+            "etag": "uxhhSNl3aeg",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/dEpZV0ke3lMC",
+            "volumeInfo": {
+                "title": "The Sound Approach to Birding",
+                "subtitle": "A Guide to Understanding Bird Sound",
+                "authors": [
+                    "Mark Constantine",
+                    "Sound Approach"
+                ],
+                "publisher": "The Sound Approach",
+                "publishedDate": "2006",
+                "description": "\"Combining anecdote, scientific theory and practical experience the Sound Approach to birding is a step-by-step guide through tone, pitch, rhythm, reading sonagrams, acoustics, and using sounds to age and sex birds.\" -- Back cover.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9789081093316"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "9081093312"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 192,
+                "printType": "BOOK",
+                "categories": [
+                    "Birdsongs"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=dEpZV0ke3lMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=dEpZV0ke3lMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=dEpZV0ke3lMC&printsec=frontcover&dq=subject:NATURE&hl=&cd=8&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=dEpZV0ke3lMC&dq=subject:NATURE&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/The_Sound_Approach_to_Birding.html?hl=&id=dEpZV0ke3lMC"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=dEpZV0ke3lMC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "og8QCwAAQBAJ",
+            "etag": "R8S4zq3p5v8",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/og8QCwAAQBAJ",
+            "volumeInfo": {
+                "title": "Nuclear War Survival Skills",
+                "subtitle": "Lifesaving Nuclear Facts and Self-Help Instructions",
+                "authors": [
+                    "Cresson H. Kearny"
+                ],
+                "publisher": "Skyhorse",
+                "publishedDate": "2016-01-19",
+                "description": "A field-tested guide to surviving a nuclear attack, written by a revered civil defense expert. This edition of Cresson H. Kearny’s iconic Nuclear War Survival Skills (originally published in 1979), updated by Kearny himself in 1987 and again in 2001, offers expert advice for ensuring your family’s safety should the worst come to pass. Chock-full of practical instructions and preventative measures, Nuclear War Survival Skills is based on years of meticulous scientific research conducted by Oak Ridge National Laboratory. Featuring a new introduction by ex-Navy SEAL Don Mann, this book also includes: instructions for six different fallout shelters, myths and facts about the dangers of nuclear weapons, tips for maintaining an adequate food and water supply, a foreword by “the father of the hydrogen bomb,” physicist Dr. Edward Teller, and an “About the Author” note by Eugene P. Wigner, physicist and Nobel Laureate. Written at a time when global tensions were at their peak, Nuclear War Survival Skills remains relevant in the dangerous age in which we now live.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781510702059"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1510702059"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 320,
+                "printType": "BOOK",
+                "categories": [
+                    "Reference"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "0.9.9.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=og8QCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=og8QCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=og8QCwAAQBAJ&printsec=frontcover&dq=subject:NATURE&hl=&cd=9&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=og8QCwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=og8QCwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 100.67,
+                    "currencyCode": "HKD"
+                },
+                "retailPrice": {
+                    "amount": 68.46,
+                    "currencyCode": "HKD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=og8QCwAAQBAJ&rdid=book-og8QCwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 100670000,
+                            "currencyCode": "HKD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 68460000,
+                            "currencyCode": "HKD"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Nuclear_War_Survival_Skills-sample-epub.acsm?id=og8QCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Nuclear_War_Survival_Skills-sample-pdf.acsm?id=og8QCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=og8QCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "qtJp7aAZV_oC",
+            "etag": "6NeyGiGvdMo",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/qtJp7aAZV_oC",
+            "volumeInfo": {
+                "title": "This Sacred Earth",
+                "subtitle": "Religion, Nature, Environment",
+                "authors": [
+                    "Roger S. Gottlieb"
+                ],
+                "publisher": "Psychology Press",
+                "publishedDate": "2004",
+                "description": "Table of contents",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0415943604"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780415943604"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 762,
+                "printType": "BOOK",
+                "categories": [
+                    "Religion"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.2.3.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=qtJp7aAZV_oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=qtJp7aAZV_oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=qtJp7aAZV_oC&printsec=frontcover&dq=subject:NATURE&hl=&cd=10&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=qtJp7aAZV_oC&dq=subject:NATURE&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/This_Sacred_Earth.html?hl=&id=qtJp7aAZV_oC"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=qtJp7aAZV_oC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        }
+    ]
+}

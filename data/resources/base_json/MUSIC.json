@@ -1,0 +1,783 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 395,
+    "items": [
+        {
+            "kind": "books#volume",
+            "id": "n6mrVRIXo5QC",
+            "etag": "ymnyWXS4MZc",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/n6mrVRIXo5QC",
+            "volumeInfo": {
+                "title": "All That I Can Be",
+                "subtitle": "15 Unison Songs to Build Character and Integrity in Young People",
+                "authors": [
+                    "Sally K. Albrecht",
+                    "Jay Althouse"
+                ],
+                "publisher": "Alfred Music",
+                "description": "Designed to help build character and integrity in your young singers, All That I Can Be is a vibrant collection of 15 unison songs by the well-known writing team of Sally K. Albrecht and Jay Althouse. Teachers as well as parents will enjoy the lessons that can be learned through this collection of songs. The texts reinforce such concepts as teamwork, punctuality, friendship, respect, and telling the truth. Set in a wide variety of musical styles, the songs may be sung separately or together as a 30-minute program. These songs will teach all who sing and all who listen how important it is to be All That I Can Be! The Teacher's Handbook includes reproducible song sheets and word games, programming ideas, and suggestions for additional activities. Recommended for grades 2-7.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1457418479"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781457418471"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "printType": "BOOK",
+                "categories": [
+                    "Music"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.0.2.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=n6mrVRIXo5QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=n6mrVRIXo5QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=n6mrVRIXo5QC&printsec=frontcover&dq=subject:MUSIC&hl=&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=n6mrVRIXo5QC&dq=subject:MUSIC&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/All_That_I_Can_Be.html?hl=&id=n6mrVRIXo5QC"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/All_That_I_Can_Be-sample-pdf.acsm?id=n6mrVRIXo5QC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=n6mrVRIXo5QC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "hIEJyToJYl0C",
+            "etag": "bepjRMBbbYc",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/hIEJyToJYl0C",
+            "volumeInfo": {
+                "title": "Understanding Popular Music",
+                "authors": [
+                    "Roy Shuker"
+                ],
+                "publisher": "Routledge",
+                "publishedDate": "2013-01-11",
+                "description": "Understanding Popular Music is a comprehensive introduction to the history and meaning of popular music. It begins with a critical assessment of the different ways in which popular music has been studied and the difficulties and debates which surround the analysis of popular culture and popular music. Drawing on the recent work of music scholars and the popular music press, Shuker explores key subjects which shape our experience of music, including music production, the music industry, music policy, fans, audiences and subcultures, the musician as 'star', music journalism, and the reception and consumption of popular music. This fully revised and updated second edition includes: *case studies and lyrics of artists such as Shania Twain, S Club 7, The Spice Girls and Fat Boy Slim * the impact of technologies including on-line delivery and the debates over MP3 and Napster * the rise of DJ culture and the changing idea of the 'musician' * a critique of gender and sexual politics and the discrimination which exists in the music industry * moral panics over popular music including the controversies surrounding artists such as Marilyn Manson and Ice-T * a comprehensive discography, guide to further reading and directory of websites.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781134564798"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1134564791"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 352,
+                "printType": "BOOK",
+                "categories": [
+                    "Music"
+                ],
+                "averageRating": 1,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "2.3.3.0.preview.3",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=hIEJyToJYl0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=hIEJyToJYl0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=hIEJyToJYl0C&pg=PP1&dq=subject:MUSIC&hl=&cd=2&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=hIEJyToJYl0C&dq=subject:MUSIC&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Understanding_Popular_Music.html?hl=&id=hIEJyToJYl0C"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Understanding_Popular_Music-sample-epub.acsm?id=hIEJyToJYl0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Understanding_Popular_Music-sample-pdf.acsm?id=hIEJyToJYl0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=hIEJyToJYl0C&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "Xhy3DAAAQBAJ",
+            "etag": "8cw12fDU3po",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/Xhy3DAAAQBAJ",
+            "volumeInfo": {
+                "title": "David Braham",
+                "subtitle": "The American Offenbach",
+                "authors": [
+                    "John Franceschina"
+                ],
+                "publisher": "Routledge",
+                "publishedDate": "2002-12-26",
+                "description": "First Published in 2003. Routledge is an imprint of Taylor & Francis, an informa company.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781135358525"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1135358524"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 224,
+                "printType": "BOOK",
+                "categories": [
+                    "Biography & Autobiography"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.3.1.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=Xhy3DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=Xhy3DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=Xhy3DAAAQBAJ&printsec=frontcover&dq=subject:MUSIC&hl=&cd=3&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=Xhy3DAAAQBAJ&dq=subject:MUSIC&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/David_Braham.html?hl=&id=Xhy3DAAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=Xhy3DAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "-1l6AwAAQBAJ",
+            "etag": "objoGFNVUT0",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/-1l6AwAAQBAJ",
+            "volumeInfo": {
+                "title": "Strictly Classics, Book 1",
+                "subtitle": "Violin",
+                "authors": [
+                    "John O'Reilly"
+                ],
+                "publisher": "Alfred Music",
+                "publishedDate": "2005-05-03",
+                "description": "This flexible new collection of string ensembles will inspire chamber music performance while introducing beginners to some of the greatest classic themes ever written. Correlated with Strictly Strings Book 1, Strictly Classics contains 18 ensembles spanning four centuries of music. Its flexible format provides performance opportunities for solo (with piano accompaniment), duet and trio up through full string ensemble. Strictly Classics, Book 2 introduces 14 additional ensemble pieces which correlate with Strictly Strings, Book 2.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781457409387"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1457409380"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 24,
+                "printType": "BOOK",
+                "categories": [
+                    "Music"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "1.1.1.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=-1l6AwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=-1l6AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=-1l6AwAAQBAJ&printsec=frontcover&dq=subject:MUSIC&hl=&cd=4&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=-1l6AwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-1l6AwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 54.17,
+                    "currencyCode": "HKD"
+                },
+                "retailPrice": {
+                    "amount": 40.63,
+                    "currencyCode": "HKD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=-1l6AwAAQBAJ&rdid=book--1l6AwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 54170000,
+                            "currencyCode": "HKD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 40630000,
+                            "currencyCode": "HKD"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Strictly_Classics_Book_1-sample-pdf.acsm?id=-1l6AwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=-1l6AwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "kN7dsW3aLLoC",
+            "etag": "RIUPPUVCu4k",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/kN7dsW3aLLoC",
+            "volumeInfo": {
+                "title": "Complete Works, Volume I",
+                "subtitle": "For Piano",
+                "authors": [
+                    "Robert Schumann"
+                ],
+                "publisher": "Alfred Music",
+                "publishedDate": "1996-02-01",
+                "description": "Complete Works, Clara Schumann Edition, Op. 1 - Op. 8, for piano.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1457476827"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781457476822"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 184,
+                "printType": "BOOK",
+                "categories": [
+                    "Music"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.0.1.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=kN7dsW3aLLoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=kN7dsW3aLLoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=kN7dsW3aLLoC&printsec=frontcover&dq=subject:MUSIC&hl=&cd=5&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=kN7dsW3aLLoC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=kN7dsW3aLLoC"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 170.42,
+                    "currencyCode": "HKD"
+                },
+                "retailPrice": {
+                    "amount": 115.89,
+                    "currencyCode": "HKD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=kN7dsW3aLLoC&rdid=book-kN7dsW3aLLoC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 170420000,
+                            "currencyCode": "HKD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 115890000,
+                            "currencyCode": "HKD"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Complete_Works_Volume_I-sample-pdf.acsm?id=kN7dsW3aLLoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=kN7dsW3aLLoC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "MkTHDgAAQBAJ",
+            "etag": "/q2eo7DRlJY",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/MkTHDgAAQBAJ",
+            "volumeInfo": {
+                "title": "Ashley Judd Crying On The Inside",
+                "authors": [
+                    "James L. Dickerson"
+                ],
+                "publisher": "Schirmer Trade Books",
+                "publishedDate": "2012-03-25",
+                "description": "In Crying on the Inside, veteran author and journalist James L. Dickerson recounts Ashely Judd's difficult childhood in Kentucky and California, her troubled relationships with her mother and sister, her big-screen breakthrough in 1993's Ruby in Paradise, her life-long struggle with depression, her off-screen romances and her marriage. Discover the inside story behind her roles in Heat, Kiss the Girls, High Crimes and The Divine Secrets of the Ya-Ya Sisterhood. Journey with her as she makes the transition from actress to social activist, addressing the General Assembly of the United Nations on matters of the greatest importance. James L. Dickerson is an award-winning writer, mental health professional, and author of the music histories Mojo Triangle and Memphis Going Down. As a biographer he has authored books on Nicole Kidman, Faith Hill, jazz legend Lil Hardin Armstrong, and Elvis Presley’s guitarist and manager, Scotty Moore. An award winning newspaper editorial writer, he is also co-author of the civil rights history, Devil’s Sanctuary: An Eyewitness History of Mississippi Hate Crimes.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780857125033"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0857125036"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": false
+                },
+                "pageCount": 258,
+                "printType": "BOOK",
+                "categories": [
+                    "Performing Arts"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.3.3.0.preview.2",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=MkTHDgAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=MkTHDgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=MkTHDgAAQBAJ&dq=subject:MUSIC&hl=&cd=6&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=MkTHDgAAQBAJ&dq=subject:MUSIC&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Ashley_Judd_Crying_On_The_Inside.html?hl=&id=MkTHDgAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true
+                },
+                "pdf": {
+                    "isAvailable": true
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=MkTHDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "FFjDkoF53DYC",
+            "etag": "37eCgUpILag",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/FFjDkoF53DYC",
+            "volumeInfo": {
+                "title": "1812 Overture",
+                "subtitle": "Op. 49",
+                "authors": [
+                    "Peter Ilich Tchaikovsky"
+                ],
+                "publisher": "Courier Corporation",
+                "publishedDate": "2003-01-01",
+                "description": "Commissioned to mark the 1882 All-Russia Exhibition of Arts and Crafts, this extraordinarily popular work was premiered at the consecration of the Kremlin's Cathedral of the Redeemer--the monument built to commemorate the Russian defeat of the Napoleonic invasion in 1812. A colorful musical tapestry of nationalistic themes and battle scenes, performances of the \"1812\" — with cannons thundering and bells pealing — have remained an electrifying outdoor event at patriotic concerts worldwide.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0486428567"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780486428567"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 91,
+                "printType": "BOOK",
+                "categories": [
+                    "Music"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.1.3.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=FFjDkoF53DYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=FFjDkoF53DYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=FFjDkoF53DYC&printsec=frontcover&dq=subject:MUSIC&hl=&cd=7&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=FFjDkoF53DYC&dq=subject:MUSIC&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/1812_Overture.html?hl=&id=FFjDkoF53DYC"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=FFjDkoF53DYC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "xacoDQAAQBAJ",
+            "etag": "4scP5u2m784",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/xacoDQAAQBAJ",
+            "volumeInfo": {
+                "title": "Il Natale dei Beatles",
+                "authors": [
+                    "Renzo Stefanel",
+                    "Franco Zanetti"
+                ],
+                "publisher": "Giunti Editore",
+                "publishedDate": "2016-10-05",
+                "description": "Uno sguardo strano e curioso al pianeta Beatles, isolando una decina di storie vere, gioiose, drammatiche o buffe, ambientate nel cuore dell’inverno, dagli anni ‘50 alla fine dei ‘60. I Beatles che sgomitano come Quarrymen, che vengono espulsi dalla Germania perché non in regola con i permessi di lavoro, che il 1° gennaio 1962 tentano un provino con la Decca (bocciati!), che diventano famosi e per due Natali di fila organizzano un “Beatles Christmas Show” in cui cantano, suonano e recitano; che per la sera di Santo Stefano del 1967 girano un film TV che avrà un notevole e antipatico insuccesso, il “Magical Mystery Tour”. Completa il libro una appendice con elenchi di canzoni natalizie eseguite dai quattro o a lorodedicate, il racconto dettagliato di come si svolgevano i “Christmas Show” e la descrizione degli appositi “Christmas Records” che i quattro ragazzi di Liverpool prepararono ogni anno per gli iscritti al loro fan club.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9788809848535"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "8809848535"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 144,
+                "printType": "BOOK",
+                "categories": [
+                    "Music"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.4.4.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=xacoDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=xacoDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "it",
+                "previewLink": "http://books.google.com.hk/books?id=xacoDQAAQBAJ&printsec=frontcover&dq=subject:MUSIC&hl=&cd=8&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=xacoDQAAQBAJ&dq=subject:MUSIC&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Il_Natale_dei_Beatles.html?hl=&id=xacoDQAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Il_Natale_dei_Beatles-sample-epub.acsm?id=xacoDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Il_Natale_dei_Beatles-sample-pdf.acsm?id=xacoDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=xacoDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "KuRfLG0IedYC",
+            "etag": "yZacJR2aLZE",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/KuRfLG0IedYC",
+            "volumeInfo": {
+                "title": "The Oxford Handbook of Sound Studies",
+                "authors": [
+                    "Trevor Pinch",
+                    "Karin Bijsterveld"
+                ],
+                "publisher": "OUP USA",
+                "publishedDate": "2012-01-05",
+                "description": "Written by the world's leading scholars and researchers in the emerging field of sound studies, The Oxford Handbook of Sound Studies offers new and fully engaging perspectives on the significance of sound in its material and cultural forms. The book considers sounds and music as experienced in such diverse settings as shop floors, laboratories, clinics, design studios, homes, and clubs, across an impressively broad range of historical periods and national and cultural contexts.Science has traditionally been understood as a visual matter, a study which has historically been undertaken with optical technologies such as slides, graphs, and telescopes. This book questions that notion powerfully by showing how listening has contributed to scientific practice. Sounds have always been a part of human experience, shaping and transforming the world in which we live in ways that often go unnoticed. Sounds and music, the authors argue, are embedded in the fabric of everyday life, art, commerce, and politics in ways which impact our perception of the world. Through an extraordinarily diverse set of case studies, authors illustrate how sounds -- from the sounds of industrialization, to the sounds of automobiles, to sounds in underwater music and hip-hop, to the sounds of nanotechnology -- give rise to new forms listening practices. In addition, the book discusses the rise of new public problems such as noise pollution, hearing loss, and the \"end\" of the amateur musician that stem from the spread and appropriation of new sound- and music-related technologies, analog and digital, in many domains of life.Rich in vivid and detailed examples and compelling case studies, and featuring a companion website of listening samples, this remarkable volume boldly challenges readers to rethink the way they hear and understand the world.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780195388947"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0195388941"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 593,
+                "printType": "BOOK",
+                "categories": [
+                    "Music"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.1.0.0.preview.1",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=KuRfLG0IedYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=KuRfLG0IedYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=KuRfLG0IedYC&printsec=frontcover&dq=subject:MUSIC&hl=&cd=9&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=KuRfLG0IedYC&dq=subject:MUSIC&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/The_Oxford_Handbook_of_Sound_Studies.html?hl=&id=KuRfLG0IedYC"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=KuRfLG0IedYC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "dRq2CgAAQBAJ",
+            "etag": "3ti6V9qTKJ4",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/dRq2CgAAQBAJ",
+            "volumeInfo": {
+                "title": "Professional Piano Teaching, Volume 1 - Elementary Levels",
+                "subtitle": "A Comprehensive Piano Pedagogy Textbook",
+                "authors": [
+                    "Jeanine M. Jacobson",
+                    "E. L. Lancaster",
+                    "Albert Mendoza"
+                ],
+                "publisher": "Alfred Music",
+                "publishedDate": "2015-09-25",
+                "description": "Professional Piano Teaching offers a practical guide to the art of piano teaching. Volume 1, now available as an updated second edition, is an excellent introduction to the profession of teaching piano. This revised second edition has been expanded to include chapters on teaching adult students and teaching popular, sacred, and other familiar music. Designed to serve as a basic text for a first-semester or lower-division piano pedagogy course, it provides an overview of learning principles and a thorough approach to essential aspects of teaching elementary-level students. Special features include discussions on how to teach, not just what to teach; numerous musical examples; chapter summaries; and suggested projects for new and experienced teachers. Topics: * The Art of Professional Piano Teaching * Principles of Learning * Beginning Methods * Teaching Beginners and Elementary Students * Teaching Rhythm and Reading * Teaching Technique and Musical Sound Development * Elementary Performance and Study Repertoire * Developing Musicality in Elementary Students * Group Teaching * Teaching Preschoolers * Teaching Adults * Teaching Popular, Sacred, and Other Familiar Music * The Business of Piano Teaching * Evaluation of Teaching",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781470632755"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1470632756"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 428,
+                "printType": "BOOK",
+                "categories": [
+                    "Music"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "0.1.0.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=dRq2CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=dRq2CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=dRq2CgAAQBAJ&printsec=frontcover&dq=subject:MUSIC&hl=&cd=10&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=dRq2CgAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=dRq2CgAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 464.93,
+                    "currencyCode": "HKD"
+                },
+                "retailPrice": {
+                    "amount": 325.45,
+                    "currencyCode": "HKD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=dRq2CgAAQBAJ&rdid=book-dRq2CgAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 464930000,
+                            "currencyCode": "HKD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 325450000,
+                            "currencyCode": "HKD"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Professional_Piano_Teaching_Volume_1_Ele-sample-pdf.acsm?id=dRq2CgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=dRq2CgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        }
+    ]
+}

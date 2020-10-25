@@ -1,0 +1,62 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>自動預約課堂</title>
+    <link rel="stylesheet" href="table.css" />
+</head>
+<body>
+    <table>
+        <tr>
+            <th>
+                時間\日期
+            </th>
+            <th>
+                1
+            </th>
+            <th>
+                2
+            </th>
+            <th>
+                3
+            </th>
+        </tr>
+        <tr>
+            <th>
+                7：30
+            </th>
+            <th>
+                <span>class1</span>
+                <span>mr.A</span>
+                <button class="book-btn" id="1 7:30 class1 mrA">book</button>
+            </th>
+            <th>
+                <span>class2</span>
+                <span>mr.A</span>
+                <button class="book-btn" id="1 7:30 class2 mrA">book</button>
+            </th>
+            <th>
+                <span>class3</span>
+                <span>mr.A</span>
+                <button class="book-btn" id="1 7:30 class3 mrA">book</button>
+            </th>
+        </tr>
+    </table>
+    <div id="location-board">
+        <form method='post' action="/location">
+            <input value="PURE South - The Pulse" id="14" type="submit">
+            <input value="PURECAST Yoga Live-stream" id="77" type="submit">
+            <input value="Yoga - Millennium City 5" id="40" type="submit">
+        </form>
+    </div>
+    <div id="display-board">
+        <form method='post' action='/courses'>
+            <input value="confirm" type="submit">
+        </form>
+    </div>
+    <script src="jquery-3.5.1.min.js"></script>
+    <script
+    src="./table.js"
+  ></script>
+</body>
+</html>

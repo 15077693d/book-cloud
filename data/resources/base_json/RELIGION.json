@@ -1,0 +1,841 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 495,
+    "items": [
+        {
+            "kind": "books#volume",
+            "id": "BUM2AAAAQBAJ",
+            "etag": "bC4ybLD/lMM",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/BUM2AAAAQBAJ",
+            "volumeInfo": {
+                "title": "Augustine's Confessions",
+                "authors": [
+                    "William E. Mann"
+                ],
+                "publisher": "Rowman & Littlefield Publishers",
+                "publishedDate": "2006-03-28",
+                "description": "Unique in all of literature, the Confessions combines frank and profound psychological insight into Augustine's formative years along with sophisticated and beguiling reflections on some of the most important issues in philosophy and theology. The essays contained in this volume, by some of the most distinguished recent and contemporary thinkers in the field, insightfully explore Augustinian themes not only with an eye to historical accuracy but also to gauge the philosophical acumen of Augustine's reflections.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780742570986"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0742570983"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 252,
+                "printType": "BOOK",
+                "categories": [
+                    "Philosophy"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "2.7.4.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=BUM2AAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=BUM2AAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=BUM2AAAAQBAJ&printsec=frontcover&dq=subject:RELIGION&hl=&cd=1&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=BUM2AAAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=BUM2AAAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 337.13,
+                    "currencyCode": "HKD"
+                },
+                "retailPrice": {
+                    "amount": 245.64,
+                    "currencyCode": "HKD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=BUM2AAAAQBAJ&rdid=book-BUM2AAAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 337130000,
+                            "currencyCode": "HKD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 245640000,
+                            "currencyCode": "HKD"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Augustine_s_Confessions-sample-epub.acsm?id=BUM2AAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Augustine_s_Confessions-sample-pdf.acsm?id=BUM2AAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=BUM2AAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "bAr6oQQIlT0C",
+            "etag": "Gjf5+Zjf72c",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/bAr6oQQIlT0C",
+            "volumeInfo": {
+                "title": "Doing Justice to Mercy",
+                "subtitle": "Religion, Law, and Criminal Justice",
+                "authors": [
+                    "Jonathan Rothchild",
+                    "Matthew Myer Boulton",
+                    "Kevin Jung"
+                ],
+                "publisher": "University of Virginia Press",
+                "publishedDate": "2007",
+                "description": "The schools of divinity and law at the University of Chicago sponsored a three-day conference (no date cited) to explore the relationship of mercy to justice in systems of criminal justice. A glaring context of the discussion was the massive expansion of the US prison system since the 1970s, calling into question the fundamental purpose of the criminal justice system. Some of the 12 papers consider case studies, such as domestic violence, sentencing, and international law. Others look at approaches to the question, among them political theology, phenomenological, and social ethics.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780813926421"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0813926424"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 280,
+                "printType": "BOOK",
+                "categories": [
+                    "Religion"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.2.2.0.preview.3",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=bAr6oQQIlT0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=bAr6oQQIlT0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=bAr6oQQIlT0C&printsec=frontcover&dq=subject:RELIGION&hl=&cd=2&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=bAr6oQQIlT0C&dq=subject:RELIGION&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Doing_Justice_to_Mercy.html?hl=&id=bAr6oQQIlT0C"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Doing_Justice_to_Mercy-sample-epub.acsm?id=bAr6oQQIlT0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=bAr6oQQIlT0C&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "ua7EAQAAQBAJ",
+            "etag": "YsKT96MUkgA",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/ua7EAQAAQBAJ",
+            "volumeInfo": {
+                "title": "Doing Time",
+                "subtitle": "Finding Hope at San Quentin",
+                "authors": [
+                    "Dennis Burke"
+                ],
+                "publisher": "Paulist Press",
+                "publishedDate": "2008",
+                "description": "Our understanding of eating disorders has improved markedly over the past 10 years since the publication of the previous edition of this volume. Early intervention is the key, as body dissatisfaction, obsession with thinness, and restrained and binge eating can be found in those as young as ten. Exploring prevention methods and therapeutic options, the second edition of Eating Disorders in Women and Children: Prevention, Stress Management, and Treatment is updated with new research on these devastating maladies. Highlights in the second edition include: An emphasis on the physiology of eating disorders and genetic factors related to anorexia and bulimia Theories on prevention and the identification of at-risk individuals The latest information on therapeutic modalities, including cognitive behavioral, interpersonal, constructionist, and narrative approaches as well as pharmaceutical management Nutritional evaluation and treatment Specific exercise recommendations for women and children with eating disorders An accompanyingCD-ROM containing a PowerPoint presentation for each chapter With contributions from acclaimed clinicians widely known for their work with the eating disorder population, this volume recognizes the multifaceted nature of these disorders, addresses the widening demographic range of those afflicted, and delves into the issues behind their development. It provides practical recommendations for treatment from many perspectives, presenting enormous hope for people who painfully struggle with these disorders. In addition, it explores critical measures that can be taken to help the larger population understand and work to prevent eating disorders in their communities.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780809145270"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0809145278"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 130,
+                "printType": "BOOK",
+                "categories": [
+                    "Biography & Autobiography"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.0.0.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=ua7EAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=ua7EAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=ua7EAQAAQBAJ&printsec=frontcover&dq=subject:RELIGION&hl=&cd=3&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=ua7EAQAAQBAJ&dq=subject:RELIGION&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Doing_Time.html?hl=&id=ua7EAQAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true
+                },
+                "pdf": {
+                    "isAvailable": true
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=ua7EAQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "fyTUUvwICYQC",
+            "etag": "I6fafZ8Q84Q",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/fyTUUvwICYQC",
+            "volumeInfo": {
+                "title": "Diary of a Country Clergyman 1848-1851",
+                "authors": [
+                    "James Reid",
+                    "Reisner"
+                ],
+                "publisher": "McGill-Queen's Press - MQUP",
+                "publishedDate": "2000-04-06",
+                "description": "A crusty yet diffident Scot, James Reid began his career as a sectarian evangelical missionary. The diary finds him thirty years later as a moderate, if conservative, Anglican clergyman. Through this remarkable document, village routines and intrigues, as well as Reid's circle of friends and his clerical colleagues, come vividly to life. His private reflections on the tensions and growing pains experienced by the colonial church at a formative stage in its evolution, and his reaction to events on the wider political scene, give us valuable insights into his life and the times. Reid was a man of considerable complexity and his foibles and vanities are apparent in his narrative. The glimpses of his home life shed much light on gender relations and the history of the family. The diary has been edited and annotated by M.E. Reisner, who provides the background to Reid's narrative. Her informative biographical sketches, collected in an appendix, shed further light on representative local figures and the community dynamics of his town. The Diary of a Country Clergyman will be of interest to the general reader and social historian alike.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780773568136"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0773568131"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 472,
+                "printType": "BOOK",
+                "categories": [
+                    "Religion"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.2.1.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=fyTUUvwICYQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=fyTUUvwICYQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=fyTUUvwICYQC&printsec=frontcover&dq=subject:RELIGION&hl=&cd=4&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=fyTUUvwICYQC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=fyTUUvwICYQC"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "FOR_SALE_AND_RENTAL",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 560.25,
+                    "currencyCode": "HKD"
+                },
+                "retailPrice": {
+                    "amount": 392.18,
+                    "currencyCode": "HKD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=fyTUUvwICYQC&rdid=book-fyTUUvwICYQC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 560250000,
+                            "currencyCode": "HKD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 392180000,
+                            "currencyCode": "HKD"
+                        }
+                    },
+                    {
+                        "finskyOfferType": 3,
+                        "listPrice": {
+                            "amountInMicros": 448200000,
+                            "currencyCode": "HKD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 352960000,
+                            "currencyCode": "HKD"
+                        },
+                        "rentalDuration": {
+                            "unit": "DAY",
+                            "count": 180
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Diary_of_a_Country_Clergyman_1848_1851-sample-pdf.acsm?id=fyTUUvwICYQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=fyTUUvwICYQC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "NuRLAwAAQBAJ",
+            "etag": "8tnbdBX+l6w",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/NuRLAwAAQBAJ",
+            "volumeInfo": {
+                "title": "The Better Way",
+                "subtitle": "The Church of Agape in Emerging Corinth",
+                "authors": [
+                    "Ron Clark"
+                ],
+                "publisher": "Wipf and Stock Publishers",
+                "publishedDate": "2010-01-01",
+                "description": "When Paul came to Corinth he found a culture emerging from the ashes of Roman power. As Julius Caesar rebuilt the fallen city he brought Roman culture to this Greek community. Likewise, Paul's message of salvation in Jesus rebuilt the fallen lives of people dominated by a culture of power. This power was displayed in violence, discrimination, sexuality, and spirituality. As this city emerged from the ashes of humiliation the church emerged, by God's hand, from of the humiliation of Jesus and the cross. Today the church emerges in a culture of power, humiliation, and fear. Paul's challenge for the church is to be mature and practice unconditional love. This love is permanent. This love develops and empowers others. This love causes us to be in relationship with God and others. Through this love God's people see face to face. The church can emerge to radiate love, peace, and empowerment.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781606082256"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1606082256"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 210,
+                "printType": "BOOK",
+                "categories": [
+                    "Religion"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=NuRLAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=NuRLAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=NuRLAwAAQBAJ&printsec=frontcover&dq=subject:RELIGION&hl=&cd=5&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=NuRLAwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=NuRLAwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 193.75,
+                    "currencyCode": "HKD"
+                },
+                "retailPrice": {
+                    "amount": 135.62,
+                    "currencyCode": "HKD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=NuRLAwAAQBAJ&rdid=book-NuRLAwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 193750000,
+                            "currencyCode": "HKD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 135620000,
+                            "currencyCode": "HKD"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/The_Better_Way-sample-pdf.acsm?id=NuRLAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=NuRLAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "o7bUAwAAQBAJ",
+            "etag": "1YcujBzpVhI",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/o7bUAwAAQBAJ",
+            "volumeInfo": {
+                "title": "Self, Same, Other",
+                "subtitle": "Re-visioning the Subject in Literature and Theology",
+                "authors": [
+                    "Heather Walton",
+                    "Andrew Hass"
+                ],
+                "publisher": "A&C Black",
+                "publishedDate": "2000",
+                "description": "This collection of essays explores the way our notions of self, other, subjectivity, gender and the sacred text are being re-visioned within contemporary theory. These new ways of conceiving create upheavals and radical shifts that rework our understanding of philosophical, psychological, political, sexual and spiritual identity, allowing us to trace the fault lines, regulatory forces, exclusions and unmarked spaces both within our selves, and within the discourses that attend these selves. As such, revisionings break down borders, and the encounter of literature and theology becomes a crucial focus for these explorations, as the self learns to resituate its own being creatively vis-a-vis others and, ultimately, the Other.>",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781841270180"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1841270180"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 214,
+                "printType": "BOOK",
+                "categories": [
+                    "Religion"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=o7bUAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=o7bUAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=o7bUAwAAQBAJ&printsec=frontcover&dq=subject:RELIGION&hl=&cd=6&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=o7bUAwAAQBAJ&dq=subject:RELIGION&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Self_Same_Other.html?hl=&id=o7bUAwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=o7bUAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "eY8-gRLjhTgC",
+            "etag": "qDCJaeUIa/s",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/eY8-gRLjhTgC",
+            "volumeInfo": {
+                "title": "A Passionate Faith",
+                "subtitle": "What Makes an Evangelical?",
+                "authors": [
+                    "R. D. Turnbull"
+                ],
+                "publisher": "Monarch Books",
+                "publishedDate": "2012",
+                "description": "Evangelical is a badge, a line in the sand, a term of abuse, a much-overworked word. What are the key markers of the evangelical faith? How did the movement come into being, and how is it changing? What is its style, then and now, and what is its theology? Richard Turnbull shows how and why the evangelicals have not only survived, but have grown strong, and explains their unique contribution to world Christianity. He covers the historical roots of evangelical spirituality; the place of the Bible; the concepts of conversion, personal transformation and call; evangelism and service; worship and revival. \"The greatest need of our age is for the Church to rediscover her evangelical foundations. Dr Turnbull tells the stirring story of the rise of evangelicalism - of a beautiful Saviour, a Living Scripture, a heart-felt Song and a sending Spirit. Read this book, recall the cloud of witnesses, remind yourself of what matters, revive your own faith, then go reach a lost world for Christ.\" - Simon Ponsonby, Pastor of Theology at St Aldates Church, Oxford There are great riches within the evangelical tradition to resource the whole Church and it is vital that evangelicals become better acquainted with their heritage. Richard Turnbull’s study shows how evangelicals in the past forged a spirituality that had clarity and depth, and calls us to do the same. - Revd Dr Liz Hoare, Tutor in Prayer, Spirituality and Mission at Wycliffe Hall, Oxford",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781854249012"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1854249010"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 176,
+                "printType": "BOOK",
+                "categories": [
+                    "Religion"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.1.0.preview.3",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=eY8-gRLjhTgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=eY8-gRLjhTgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=eY8-gRLjhTgC&printsec=frontcover&dq=subject:RELIGION&hl=&cd=7&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=eY8-gRLjhTgC&dq=subject:RELIGION&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/A_Passionate_Faith.html?hl=&id=eY8-gRLjhTgC"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/A_Passionate_Faith-sample-epub.acsm?id=eY8-gRLjhTgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/A_Passionate_Faith-sample-pdf.acsm?id=eY8-gRLjhTgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=eY8-gRLjhTgC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "DZ5aAAAAQBAJ",
+            "etag": "mF3Bm2qEOdg",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/DZ5aAAAAQBAJ",
+            "volumeInfo": {
+                "title": "My Road to Kenya",
+                "subtitle": "A Story of Faith, Hope and Democracy in Action",
+                "authors": [
+                    "Jack O’Leary & Mary Clare Lyons"
+                ],
+                "publisher": "WestBow Press",
+                "publishedDate": "2012-08-10",
+                "description": "Together we shared a mostly happy journey — facing and overcoming obstacles, meeting fascinating people wherever we went while falling completely in love with the people of Kenya. This book is a tribute to my co-laborers and in writing this book I hope to show that one does not need to be a hero to step out, take risks and make the world a better, healthier and happier place. –Jack O’Leary An archbishop, an environmentalist and an AIDS activist are only a few of the heroes, who stood up against a ruthless dictator and corrupt government, in Jack O’Leary’s My Road to Kenya. My Road to Kenya shines a light on a group of everyday heroes who believe they were called to make a difference in the lives of the people of Kenya. Fate and faith led them to the crossroads where their paths converged. Working together they have built and supplied hospitals, clinics, schools, churches, and homes for hundreds of children— many of whom were orphaned by HIV/AIDS. Through it all they asked for nothing for themselves. Yet in the end, the collaborations of these everyday heroes resulted in something invaluable — the forging of deep and long-lasting friendships.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781449756635"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1449756638"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 168,
+                "printType": "BOOK",
+                "categories": [
+                    "Religion"
+                ],
+                "averageRating": 5,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.3.4.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=DZ5aAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=DZ5aAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=DZ5aAAAAQBAJ&printsec=frontcover&dq=subject:RELIGION&hl=&cd=8&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=DZ5aAAAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=DZ5aAAAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 31.95,
+                    "currencyCode": "HKD"
+                },
+                "retailPrice": {
+                    "amount": 26.52,
+                    "currencyCode": "HKD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=DZ5aAAAAQBAJ&rdid=book-DZ5aAAAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 31950000,
+                            "currencyCode": "HKD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 26520000,
+                            "currencyCode": "HKD"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/My_Road_to_Kenya-sample-epub.acsm?id=DZ5aAAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/My_Road_to_Kenya-sample-pdf.acsm?id=DZ5aAAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=DZ5aAAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "Uqqf9HA5BG8C",
+            "etag": "G4buW5O/rFE",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/Uqqf9HA5BG8C",
+            "volumeInfo": {
+                "title": "Great Day Every Day",
+                "subtitle": "Navigating Life's Challenges with Promise and Purpose",
+                "authors": [
+                    "Max Lucado"
+                ],
+                "publisher": "Thomas Nelson Inc",
+                "publishedDate": "2012-01",
+                "description": "Describes how to make every day an extraordinary day by saturating oneself in Jesus's grace, allowing the day to be filled with God-given purpose regardless of the minor setbacks everyday life holds.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780849920738"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0849920736"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 137,
+                "printType": "BOOK",
+                "categories": [
+                    "Religion"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 19,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=Uqqf9HA5BG8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=Uqqf9HA5BG8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=Uqqf9HA5BG8C&pg=PP1&dq=subject:RELIGION&hl=&cd=9&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=Uqqf9HA5BG8C&dq=subject:RELIGION&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Great_Day_Every_Day.html?hl=&id=Uqqf9HA5BG8C"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=Uqqf9HA5BG8C&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "GgZKAwAAQBAJ",
+            "etag": "Pl2SI5ix+FA",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/GgZKAwAAQBAJ",
+            "volumeInfo": {
+                "title": "The Gospel according to Mark",
+                "subtitle": "an Exegetical and Doctrinal Commentary",
+                "authors": [
+                    "John Peter Lange"
+                ],
+                "publisher": "Wipf and Stock Publishers",
+                "publishedDate": "2007-05-01",
+                "description": "Presented here, in paperback for the first time, is John Peter Lange's Theologischhomiletisches Bibelwerk. Intended to help preachers prepare sermons the commentary series is essentially biblical and evangelical catholic. This 19th century commentary has served as a standard reference for more than a century. Many early reviewers regarded Schaff's edition with his additional material as superior to the original. It has proven to be a complete and useful Commentary and continues to prove especially valuable to ministers. It contains critical annotations of the text and its translation, and a threefold commentary, exegetical, doctrinal, and homiletical. Under these three heads the text is viewed from every aspect.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781556354021"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1556354029"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 166,
+                "printType": "BOOK",
+                "categories": [
+                    "Religion"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.1.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=GgZKAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=GgZKAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=GgZKAwAAQBAJ&printsec=frontcover&dq=subject:RELIGION&hl=&cd=10&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=GgZKAwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=GgZKAwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 155,
+                    "currencyCode": "HKD"
+                },
+                "retailPrice": {
+                    "amount": 105.4,
+                    "currencyCode": "HKD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=GgZKAwAAQBAJ&rdid=book-GgZKAwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 155000000,
+                            "currencyCode": "HKD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 105400000,
+                            "currencyCode": "HKD"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/The_Gospel_according_to_Mark-sample-pdf.acsm?id=GgZKAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=GgZKAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        }
+    ]
+}

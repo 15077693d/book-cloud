@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% load static %}
+{% block css %}<link rel="stylesheet" href="{% static 'css/author.css' %}" />{% endblock %}
+{% block content%}
+    <div class="container">
+      <h1>{{book_objects.0.author.name}}</h1>
+      <h4>本館藏書</h4>
+      <div class="books">
+        {% for book in book_objects %}
+        <div class="book">
+          <div class="img">
+            <img src="{{book.image}}" />
+          </div>
+          <div class="book-info">
+            <h4>
+              <a href="{% url 'book' book_id=book.id %}"
+                >{{book.title}}</a
+              >
+            </h4>
+            <h6>{{book.author.name}}</h6>
+            <h6>Seven Seas</h6>
+            <h6>$0.99</h6>
+            <p>
+             {{book.summary}}
+            </p>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+{% endblock %}

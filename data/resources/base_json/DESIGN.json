@@ -1,0 +1,772 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 410,
+    "items": [
+        {
+            "kind": "books#volume",
+            "id": "vQj5AAAAQBAJ",
+            "etag": "TVoRj1T9UJw",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/vQj5AAAAQBAJ",
+            "volumeInfo": {
+                "title": "835 Victorian Designs and Emblems",
+                "authors": [
+                    "Palm & Fechteler (New York, N.Y.)"
+                ],
+                "publisher": "Courier Corporation",
+                "publishedDate": "2001",
+                "description": "This selection of royalty-free designs from a rare 1882 catalog of transferable designs for carriages and buggies includes ornamental crests, coats of arms, shields, mottos, and a wealth of other eye-catching designs — many incorporating dogs, handsome steeds, various birds, wild beasts, mythical creatures, and other eye-catching images.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780486417349"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0486417344"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 43,
+                "printType": "BOOK",
+                "categories": [
+                    "Design"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=vQj5AAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=vQj5AAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=vQj5AAAAQBAJ&printsec=frontcover&dq=subject:DESIGN&hl=&cd=1&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=vQj5AAAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=vQj5AAAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 53.86,
+                    "currencyCode": "HKD"
+                },
+                "retailPrice": {
+                    "amount": 40.4,
+                    "currencyCode": "HKD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=vQj5AAAAQBAJ&rdid=book-vQj5AAAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 53860000,
+                            "currencyCode": "HKD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 40400000,
+                            "currencyCode": "HKD"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/835_Victorian_Designs_and_Emblems-sample-pdf.acsm?id=vQj5AAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=vQj5AAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "AnHVDwAAQBAJ",
+            "etag": "FHVr+HXUMhw",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/AnHVDwAAQBAJ",
+            "volumeInfo": {
+                "title": "La decoración ideada por François Grognard para los apartamentos de la duquesa de Alba en el palacio de Buenavista",
+                "authors": [
+                    "Concha Herrero Carretero",
+                    "Álvaro Molina",
+                    "Jesusa Vega"
+                ],
+                "publisher": "Casa de Velázquez",
+                "publishedDate": "2020-04-16",
+                "description": "La importancia del adorno de interiores en el siglo XVIII apenas ha dejado vestigios materiales más allá de las residencias palaciegas, siendo igualmente escaso el estudio de sus fuentes. Entre estas últimas se encuentra el plan decorativo para los apartamentos de la duquesa de Alba en el Palacio de Buenavista (1792), raro testimonio escrito en forma de viaje pintoresco por el comerciante de sedas y adornista François Grognard, quien hizo un diseño ex profeso a la moda. La traducción al español de este apasionante relato se acompaña de la transcripción anotada de la correspondencia manuscrita conservada en la Bibliothèque municipale de Lyon, y tres estudios particulares sobre Grognard, el palacio de Buenavista y la actividad de los adornistas. El libro es una contribución novedosa al conocimiento de la intensa actividad artística y comercial de Madrid y de las relaciones internacionales a través de un intermediario culto y moderno.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9788490962428"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "8490962421"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 470,
+                "printType": "BOOK",
+                "categories": [
+                    "Architecture"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=AnHVDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=AnHVDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "es",
+                "previewLink": "http://books.google.com.hk/books?id=AnHVDwAAQBAJ&printsec=frontcover&dq=subject:DESIGN&hl=&cd=2&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=AnHVDwAAQBAJ&dq=subject:DESIGN&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/La_decoraci%C3%B3n_ideada_por_Fran%C3%A7ois_Grog.html?hl=&id=AnHVDwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=AnHVDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "enqt_oAHCXIC",
+            "etag": "BYlsO7m+zWs",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/enqt_oAHCXIC",
+            "volumeInfo": {
+                "title": "Cross-Cultural Design for IT Products and Services",
+                "authors": [
+                    "Pei-Luen Patrick Rau",
+                    "Tom Plocher",
+                    "Yee-Yin Choong"
+                ],
+                "publisher": "CRC Press",
+                "publishedDate": "2012-12-04",
+                "description": "With the increase of globalization of business and industry, IT products and services are often produced and marketed across geographical cultural boundaries without adequate consideration of culture. There is a high probability that IT products and services developed in one country may not be effectively used in another country, which may hinder their market penetration, sales, and use. Based on research and practice, Cross-Cultural Design for IT Products and Services provides a resource for human factors engineers, designers, and marketing professionals who define and develop IT products and services for the global market. With its extensive review of cross-cultural theory and cross-cultural design literature, it is also a resource for those who are interested in research on cross-cultural design. The book presents an overview of the dimensions of culture that have implications for human information processing and affective response. It examines a set of user interface design guidelines grouped into five areas: language, use of color, icons and images, navigation, and information architecture. Also, it addresses physical ergonomics and anthropometry issues. The text translates theory and guidelines into a practical methodology and discusses how to integrate methods of cross-cultural design into a standard engineering process for product development. The authors review and reappraise theories, models, principles, and techniques for design of IT products and services that will be marketed globally. They provide guidelines for user interface design across North American, Asian, and other cultures. Applying the guidelines within the methodological framework provided will enhance the usability and effectiveness of the IT product or service, and contribute to greater user satisfaction, increased productivity, higher sales, and lower product support costs.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781439838730"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1439838739"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 263,
+                "printType": "BOOK",
+                "categories": [
+                    "Computers"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=enqt_oAHCXIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=enqt_oAHCXIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=enqt_oAHCXIC&printsec=frontcover&dq=subject:DESIGN&hl=&cd=3&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=enqt_oAHCXIC&dq=subject:DESIGN&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Cross_Cultural_Design_for_IT_Products_an.html?hl=&id=enqt_oAHCXIC"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=enqt_oAHCXIC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "yUalr7fhZMEC",
+            "etag": "HRVUe4+kbKE",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/yUalr7fhZMEC",
+            "volumeInfo": {
+                "title": "Visual Language for Designers",
+                "subtitle": "Principles for Creating Graphics that People Understand",
+                "authors": [
+                    "Connie Malamed"
+                ],
+                "publisher": "Rockport Pub",
+                "publishedDate": "2011-10-01",
+                "description": "Within every picture is a hidden language that conveys a message, whether it is intended or not. This language is based on the ways people perceive and process visual information. By understanding visual language as the interface between a graphic and a viewer, designers and illustrators can learn to inform with accuracy and power. In a time of unprecedented competition for audience attention and with an increasing demand for complex graphics, Visual Language for Designers explains how to achieve quick and effective communications. New in paperback, this book presents ways to design for the strengths of our innate mental capacities and to compensate for our cognitive limitations. Visual Language for Designers includes: —How to organize graphics for quick perception —How to direct the eyes to essential information —How to use visual shorthand for efficient communication —How to make abstract ideas concrete —How to best express visual complexity —How to charge a graphic with energy and emotion",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781592537419"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1592537413"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 240,
+                "printType": "BOOK",
+                "categories": [
+                    "Design"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.2.1.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=yUalr7fhZMEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=yUalr7fhZMEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=yUalr7fhZMEC&printsec=frontcover&dq=subject:DESIGN&hl=&cd=4&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=yUalr7fhZMEC&dq=subject:DESIGN&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Visual_Language_for_Designers.html?hl=&id=yUalr7fhZMEC"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Visual_Language_for_Designers-sample-pdf.acsm?id=yUalr7fhZMEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=yUalr7fhZMEC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "PQLmgVBtEZgC",
+            "etag": "AxSzg/B8VPw",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/PQLmgVBtEZgC",
+            "volumeInfo": {
+                "title": "The Visual Dictionary of Graphic Design",
+                "authors": [
+                    "Gavin Ambrose",
+                    "Paul Harris"
+                ],
+                "publisher": "AVA Publishing",
+                "publishedDate": "2006-11-01",
+                "description": "The Visual Dictionary of Graphic Design by Gavin Ambrose and Paul Harris is a straight talking guide to the numerous terms used within the realms of art and design. Over 250 terms are explained and contextualised. It is suitable for those studying and those simply interested in art and design.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9782940373437"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "2940373434"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 288,
+                "printType": "BOOK",
+                "categories": [
+                    "Art"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.1.0.preview.1",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=PQLmgVBtEZgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=PQLmgVBtEZgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=PQLmgVBtEZgC&printsec=frontcover&dq=subject:DESIGN&hl=&cd=5&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=PQLmgVBtEZgC&dq=subject:DESIGN&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/The_Visual_Dictionary_of_Graphic_Design.html?hl=&id=PQLmgVBtEZgC"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=PQLmgVBtEZgC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "zs0lBAAAQBAJ",
+            "etag": "HYL+PGC370E",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/zs0lBAAAQBAJ",
+            "volumeInfo": {
+                "title": "Reframing Information Architecture",
+                "authors": [
+                    "Andrea Resmini"
+                ],
+                "publisher": "Springer",
+                "publishedDate": "2014-07-15",
+                "description": "Information architecture has changed dramatically since the mid-1990s and earlier conceptions of the world and the internet being different and separate have given way to a much more complex scenario in the present day. In the post-digital world that we now inhabit the digital and the physical blend easily and our activities and usage of information takes place through multiple contexts and via multiple devices and unstable, emergent choreographies. Information architecture now is steadily growing into a channel- or medium-specific multi-disciplinary framework, with contributions coming from architecture, urban planning, design and systems thinking, cognitive science, new media, anthropology. All these have been heavily reshaping the practice: conversations about labelling, websites, and hierarchies are replaced by conversations about sense-making, place-making, design, architecture, cross media, complexity, embodied cognition and their application to the architecture of information spaces as places we live in in an increasingly large part of our lives. Via narratives, frameworks, references, approaches and case-studies this book explores these changes and offers a way to reconceptualize the shifting role and nature of information architecture where information permeates digital and physical space, users are producers and products are increasingly becoming complex cross-channel or multi-channel services.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9783319064925"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "3319064924"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 156,
+                "printType": "BOOK",
+                "categories": [
+                    "Computers"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.2.3.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=zs0lBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=zs0lBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=zs0lBAAAQBAJ&printsec=frontcover&dq=subject:DESIGN&hl=&cd=6&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=zs0lBAAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zs0lBAAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "FOR_SALE_AND_RENTAL",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 773.78,
+                    "currencyCode": "HKD"
+                },
+                "retailPrice": {
+                    "amount": 541.65,
+                    "currencyCode": "HKD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=zs0lBAAAQBAJ&rdid=book-zs0lBAAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 773780000,
+                            "currencyCode": "HKD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 541650000,
+                            "currencyCode": "HKD"
+                        }
+                    },
+                    {
+                        "finskyOfferType": 3,
+                        "listPrice": {
+                            "amountInMicros": 270850000,
+                            "currencyCode": "HKD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 270850000,
+                            "currencyCode": "HKD"
+                        },
+                        "rentalDuration": {
+                            "unit": "DAY",
+                            "count": 90
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Reframing_Information_Architecture-sample-epub.acsm?id=zs0lBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Reframing_Information_Architecture-sample-pdf.acsm?id=zs0lBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=zs0lBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "ccQrBVUWT8EC",
+            "etag": "kQLf80j8Vu8",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/ccQrBVUWT8EC",
+            "volumeInfo": {
+                "title": "Exploring Materials",
+                "subtitle": "Creative Design for Everyday Objects",
+                "authors": [
+                    "Inna Alesina",
+                    "Ellen Lupton"
+                ],
+                "publisher": "Princeton Architectural Press",
+                "publishedDate": "2010-03-24",
+                "description": "This book is an action-oriented, accessible guide to design thinking that addresses both the how and why of product design. It encourages designers to look beyond the abstraction of pure forms or the whimsy of virtual objects, and instead to make and test real objects in a studio environment.--[book cover]",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1568987684"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781568987682"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 208,
+                "printType": "BOOK",
+                "categories": [
+                    "Design"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.2.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=ccQrBVUWT8EC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=ccQrBVUWT8EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=ccQrBVUWT8EC&printsec=frontcover&dq=subject:DESIGN&hl=&cd=7&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=ccQrBVUWT8EC&dq=subject:DESIGN&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Exploring_Materials.html?hl=&id=ccQrBVUWT8EC"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=ccQrBVUWT8EC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "BzfpBgAAQBAJ",
+            "etag": "V07gbKuFjmc",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/BzfpBgAAQBAJ",
+            "volumeInfo": {
+                "title": "Design, When Everybody Designs",
+                "subtitle": "An Introduction to Design for Social Innovation",
+                "authors": [
+                    "Ezio Manzini"
+                ],
+                "publisher": "MIT Press",
+                "publishedDate": "2015-02-20",
+                "description": "The role of design, both expert and nonexpert, in the ongoing wave of social innovation toward sustainability. In a changing world everyone designs: each individual person and each collective subject, from enterprises to institutions, from communities to cities and regions, must define and enhance a life project. Sometimes these projects generate unprecedented solutions; sometimes they converge on common goals and realize larger transformations. As Ezio Manzini describes in this book, we are witnessing a wave of social innovations as these changes unfold—an expansive open co-design process in which new solutions are suggested and new meanings are created. Manzini distinguishes between diffuse design (performed by everybody) and expert design (performed by those who have been trained as designers) and describes how they interact. He maps what design experts can do to trigger and support meaningful social changes, focusing on emerging forms of collaboration. These range from community-supported agriculture in China to digital platforms for medical care in Canada; from interactive storytelling in India to collaborative housing in Milan. These cases illustrate how expert designers can support these collaborations—making their existence more probable, their practice easier, their diffusion and their convergence in larger projects more effective. Manzini draws the first comprehensive picture of design for social innovation: the most dynamic field of action for both expert and nonexpert designers in the coming decades.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780262028608"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0262028603"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 241,
+                "printType": "BOOK",
+                "categories": [
+                    "Art"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.1.1.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=BzfpBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=BzfpBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=BzfpBgAAQBAJ&printsec=frontcover&dq=subject:DESIGN&hl=&cd=8&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=BzfpBgAAQBAJ&dq=subject:DESIGN&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Design_When_Everybody_Designs.html?hl=&id=BzfpBgAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=BzfpBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "pK5bO9yH0McC",
+            "etag": "T7zetYLSlXo",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/pK5bO9yH0McC",
+            "volumeInfo": {
+                "title": "Design Fundamentals for New Media",
+                "authors": [
+                    "James Gordon Bennett"
+                ],
+                "publisher": "Cengage Learning",
+                "publishedDate": "2013-04-26",
+                "description": "Fundamental design principles will always remain the same, but the digital technology that can support them is evolving and affecting their application in a profound way. In this unique and timely book, artist and educator James Bennett explores essential elements of design within the context of the new media reality in which today's designers learn and work. With a brand new design and dozens of striking new images, this new edition covers extensive updates to digital technology including interactive media, web color and typography, and designing for mobile devices. Combining timeless principles with cutting-edge technology in a smart, visually rich, full-color package, DESIGN FUNDAMENTALS FOR NEW MEDIA, Second Edition, provides a thorough and engaging introduction to modern applications of essential design techniques. Important Notice: Media content referenced within the product description or the product text may not be available in the ebook version.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781133131137"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1133131131"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 416,
+                "printType": "BOOK",
+                "categories": [
+                    "Design"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=pK5bO9yH0McC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=pK5bO9yH0McC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=pK5bO9yH0McC&printsec=frontcover&dq=subject:DESIGN&hl=&cd=9&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=pK5bO9yH0McC&dq=subject:DESIGN&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Design_Fundamentals_for_New_Media.html?hl=&id=pK5bO9yH0McC"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=pK5bO9yH0McC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "XiDO2CRDqoUC",
+            "etag": "4kHboAWZ1rs",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/XiDO2CRDqoUC",
+            "volumeInfo": {
+                "title": "Nano Materials",
+                "subtitle": "in Architecture, Interior Architecture and Design",
+                "authors": [
+                    "Sylvia Leydecker"
+                ],
+                "publisher": "Springer Science & Business Media",
+                "publishedDate": "2008-02-01",
+                "description": "In this book, architects, interior designers and designers will find an introduction to the functions and use of nano materials, specifically tailored to their needs and illustrated by numerous international project examples.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9783764379957"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "3764379952"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 192,
+                "printType": "BOOK",
+                "categories": [
+                    "Architecture"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.1.0.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=XiDO2CRDqoUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=XiDO2CRDqoUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=XiDO2CRDqoUC&printsec=frontcover&dq=subject:DESIGN&hl=&cd=10&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=XiDO2CRDqoUC&dq=subject:DESIGN&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Nano_Materials.html?hl=&id=XiDO2CRDqoUC"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Nano_Materials-sample-pdf.acsm?id=XiDO2CRDqoUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=XiDO2CRDqoUC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        }
+    ]
+}

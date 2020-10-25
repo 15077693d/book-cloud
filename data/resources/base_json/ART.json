@@ -1,0 +1,872 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 399,
+    "items": [
+        {
+            "kind": "books#volume",
+            "id": "bQ1dAQAAQBAJ",
+            "etag": "7hye5ON7AXE",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/bQ1dAQAAQBAJ",
+            "volumeInfo": {
+                "title": "Visual Art and Education in an Era of Designer Capitalism",
+                "subtitle": "Deconstructing the Oral Eye",
+                "authors": [
+                    "jan jagodzinski"
+                ],
+                "publisher": "Springer",
+                "publishedDate": "2010-10-11",
+                "description": "This book offers a unique perspective of art and its education in designer capitalism. It will contribute to the debate as to possibilities art and design hold for the future. It also questions the broad technologization of art that is taking place.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780230113602"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0230113605"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 256,
+                "printType": "BOOK",
+                "categories": [
+                    "Science"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.2.3.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=bQ1dAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=bQ1dAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=bQ1dAQAAQBAJ&printsec=frontcover&dq=subject:ART&hl=&cd=1&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=bQ1dAQAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=bQ1dAQAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "FOR_SALE_AND_RENTAL",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 364.08,
+                    "currencyCode": "HKD"
+                },
+                "retailPrice": {
+                    "amount": 254.86,
+                    "currencyCode": "HKD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=bQ1dAQAAQBAJ&rdid=book-bQ1dAQAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 364080000,
+                            "currencyCode": "HKD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 254860000,
+                            "currencyCode": "HKD"
+                        }
+                    },
+                    {
+                        "finskyOfferType": 3,
+                        "listPrice": {
+                            "amountInMicros": 127460000,
+                            "currencyCode": "HKD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 127460000,
+                            "currencyCode": "HKD"
+                        },
+                        "rentalDuration": {
+                            "unit": "DAY",
+                            "count": 90
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Visual_Art_and_Education_in_an_Era_of_De-sample-epub.acsm?id=bQ1dAQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Visual_Art_and_Education_in_an_Era_of_De-sample-pdf.acsm?id=bQ1dAQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=bQ1dAQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "YYGJAgAAQBAJ",
+            "etag": "t+MvVjvv1KE",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/YYGJAgAAQBAJ",
+            "volumeInfo": {
+                "title": "Cultural Studies",
+                "subtitle": "Volume 8",
+                "authors": [
+                    "Lawrence Grossberg",
+                    "Janice Radway"
+                ],
+                "publisher": "Routledge",
+                "publishedDate": "2005-08-08",
+                "description": "First published in 1994. Routledge is an imprint of Taylor & Francis, an informa company.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781134834990"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1134834993"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 200,
+                "printType": "BOOK",
+                "categories": [
+                    "Art"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.2.2.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=YYGJAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=YYGJAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=YYGJAgAAQBAJ&printsec=frontcover&dq=subject:ART&hl=&cd=2&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=YYGJAgAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=YYGJAgAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 353.11,
+                    "currencyCode": "HKD"
+                },
+                "retailPrice": {
+                    "amount": 258.43,
+                    "currencyCode": "HKD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=YYGJAgAAQBAJ&rdid=book-YYGJAgAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 353110000,
+                            "currencyCode": "HKD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 258430000,
+                            "currencyCode": "HKD"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Cultural_Studies-sample-epub.acsm?id=YYGJAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Cultural_Studies-sample-pdf.acsm?id=YYGJAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=YYGJAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "ek6BLmbcNh4C",
+            "etag": "hSkTNa4Nq74",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/ek6BLmbcNh4C",
+            "volumeInfo": {
+                "title": "Tattoo",
+                "authors": [
+                    "Dale Durfee"
+                ],
+                "publisher": "Macmillan",
+                "publishedDate": "2001-08-18",
+                "description": "A photographic odyssey through the art of the contemporary tattoo featuresmore than sixty-five full-color and black-and-white images that capture the rich diversity of tattoos used as a form of personal expression and body art, accompanied by commentary and observations by its subjects. Original. 20,000 first printing.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780312267841"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0312267843"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 80,
+                "printType": "BOOK",
+                "categories": [
+                    "Art"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=ek6BLmbcNh4C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=ek6BLmbcNh4C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=ek6BLmbcNh4C&dq=subject:ART&hl=&cd=3&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=ek6BLmbcNh4C&dq=subject:ART&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Tattoo.html?hl=&id=ek6BLmbcNh4C"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=ek6BLmbcNh4C&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "xjyFDwAAQBAJ",
+            "etag": "KvXmolmxvLc",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/xjyFDwAAQBAJ",
+            "volumeInfo": {
+                "title": "Twilight Visions",
+                "subtitle": "Surrealism and Paris",
+                "authors": [
+                    "Therese Lichtenstein"
+                ],
+                "publisher": "University of California Press",
+                "publishedDate": "2011-07-21",
+                "description": "Through an examination of surrealist photographs, objects, exhibitions, activities, and writings, the essays in Twilight Visions, the beautifully illustrated companion volume to the exhibition of the same name, portray the French capital as a city in the process of metamorphosis-in a kind of twilight state. The Bureau of Surrealist Research, the major Surrealist exhibitions, and the photographs of Paris by Brassai, Andre Kertesz, Ilse Bing, Germaine Krull, and Man Ray, among others, all reflect the tumultuous social and cultural transformations occurring in Paris in the 1920s and 30s. Juxtaposing the strange with the familiar, they seek to break down repressive hierarchies. At the same time, they represent a desire to change the world through experimental activities. Introduced by Therese Lichtenstein, with essays by Therese Lichtenstein, Julia Kelly, Colin Jones, and Whitney Chadwick, this absorbing volume considers the social, aesthetic, and political stances of the Surrealists as they probed hidden aspects of the commonplace and blurred the boundaries between dreams and reality, subjectivity and objectivity. Copub: Frist Center for the Visual Arts",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780520271272"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0520271270"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 224,
+                "printType": "BOOK",
+                "categories": [
+                    "Photography"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=xjyFDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=xjyFDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=xjyFDwAAQBAJ&printsec=frontcover&dq=subject:ART&hl=&cd=4&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=xjyFDwAAQBAJ&dq=subject:ART&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Twilight_Visions.html?hl=&id=xjyFDwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=xjyFDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "MY3QAgAAQBAJ",
+            "etag": "CB08lFEyTds",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/MY3QAgAAQBAJ",
+            "volumeInfo": {
+                "title": "Japanese Things",
+                "subtitle": "Being Notes on Various Subjects Connected with Japan",
+                "authors": [
+                    "Basil Hall Chamberlain"
+                ],
+                "publisher": "Tuttle Publishing",
+                "publishedDate": "2012-11-13",
+                "description": "Armchair travelers beware! Japanese Things will lure you out of your cozy, comfy home and chair to an unusual country with bewitching manners and customs—and once you have succumbed to its spell you will never be the same. Here in one neat package you will meet the flavor, charm, and piquancy of old Japan—a revised reprint of one of the indispensable books on Japan, by the late Prof. Basil Hall Chamberlain, eminent British scholar who in the latter part of the 19th century \"taught Japanese and Japan to the Japanese.\" Many books in one, this monumental compilation contains such diversified subjects as Art and Abacus; Botany and Buddhism; Charms and Cherry Blossoms; Daimyos and Divination; Fairy Tales and Flowers; Gardens and Government; History and Hara-kiri; Law and Language; Marriage and Music; Poetry and Pottery; Shinto and Singing Girls (Geisha); Tea and Theater, and Writing and Wood Engraving. In this long-awaited reprint, in which the title has been changed from Things Japanese, the reader will encounter exquisite objects of daily Japanese life, the gardens and cultures of the fields, the harmony and balance in the fundamentals of day-by-day existence.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781462908721"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1462908721"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 581,
+                "printType": "BOOK",
+                "categories": [
+                    "Antiques & Collectibles"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "1.11.12.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=MY3QAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=MY3QAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=MY3QAgAAQBAJ&printsec=frontcover&dq=subject:ART&hl=&cd=5&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=MY3QAgAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=MY3QAgAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 86,
+                    "currencyCode": "HKD"
+                },
+                "retailPrice": {
+                    "amount": 58.48,
+                    "currencyCode": "HKD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=MY3QAgAAQBAJ&rdid=book-MY3QAgAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 86000000,
+                            "currencyCode": "HKD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 58480000,
+                            "currencyCode": "HKD"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Japanese_Things-sample-epub.acsm?id=MY3QAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Japanese_Things-sample-pdf.acsm?id=MY3QAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=MY3QAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "aal3Xm7WrewC",
+            "etag": "rXfMJWbYRdQ",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/aal3Xm7WrewC",
+            "volumeInfo": {
+                "title": "Expo 67",
+                "subtitle": "Not Just a Souvenir",
+                "authors": [
+                    "Rhona Richman Kenneally",
+                    "Johanne Sloan"
+                ],
+                "publisher": "University of Toronto Press",
+                "publishedDate": "2010-12-11",
+                "description": "Expo 67, the world's fair held in Montreal during the summer of 1967, brought architecture, art, design, and technology together into a glittering modern package. Heralding the ideal city of the future to its visitors, the Expo site was perceived by critics as a laboratory for urban and architectural design as well as for cultural exchange, intended to enhance global understanding and international cooperation. This collection of essays brings new critical perspectives to Expo 67, an event that left behind a significant material and imaginative legacy. The contributors to this volume reflect a variety of interdisciplinary approaches and address Expo 67 across a broad spectrum ranging from architecture and film to more ephemeral markers such as postcards, menus, pavilion displays, or the uniforms of the hostesses employed on the site. Collectively, the essays explore issues of nationalism, the interplay of tradition and modernity, twentieth-century discourse about urban experience, and the enduring impact of Expo 67's technological experimentation. Expo 67: Not Just a Souvenir is a compelling examination of a world's fair that had a profound impact locally, nationally, and internationally.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781442660212"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "144266021X"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 280,
+                "printType": "BOOK",
+                "categories": [
+                    "Social Science"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.1.2.0.preview.3",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=aal3Xm7WrewC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=aal3Xm7WrewC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=aal3Xm7WrewC&printsec=frontcover&dq=subject:ART&hl=&cd=6&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=aal3Xm7WrewC&dq=subject:ART&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Expo_67.html?hl=&id=aal3Xm7WrewC"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Expo_67-sample-epub.acsm?id=aal3Xm7WrewC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Expo_67-sample-pdf.acsm?id=aal3Xm7WrewC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=aal3Xm7WrewC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "9kPRGPc4zHQC",
+            "etag": "NyhRxJYdbOw",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/9kPRGPc4zHQC",
+            "volumeInfo": {
+                "title": "Videogames and Art",
+                "authors": [
+                    "Andy Clarke",
+                    "Grethe Mitchell"
+                ],
+                "publisher": "Intellect Books",
+                "publishedDate": "2007",
+                "description": "Videogame art is developing as an area of burgeoning interest, departing from embryonic roots into a flourishing division of scholarly study. The collection provides both an overview of the field, positioning it within a social and commercial context with reference to other forms of digital and pictorial art, and to the mainstream videogames industry.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781841501420"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1841501425"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 283,
+                "printType": "BOOK",
+                "categories": [
+                    "Art"
+                ],
+                "averageRating": 4.5,
+                "ratingsCount": 3,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "0.2.3.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=9kPRGPc4zHQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=9kPRGPc4zHQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=9kPRGPc4zHQC&printsec=frontcover&dq=subject:ART&hl=&cd=7&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=9kPRGPc4zHQC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9kPRGPc4zHQC"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 100.92,
+                    "currencyCode": "HKD"
+                },
+                "retailPrice": {
+                    "amount": 68.63,
+                    "currencyCode": "HKD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=9kPRGPc4zHQC&rdid=book-9kPRGPc4zHQC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 100920000,
+                            "currencyCode": "HKD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 68630000,
+                            "currencyCode": "HKD"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Videogames_and_Art-sample-epub.acsm?id=9kPRGPc4zHQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Videogames_and_Art-sample-pdf.acsm?id=9kPRGPc4zHQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=9kPRGPc4zHQC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "yUalr7fhZMEC",
+            "etag": "SocPttuJlbQ",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/yUalr7fhZMEC",
+            "volumeInfo": {
+                "title": "Visual Language for Designers",
+                "subtitle": "Principles for Creating Graphics that People Understand",
+                "authors": [
+                    "Connie Malamed"
+                ],
+                "publisher": "Rockport Pub",
+                "publishedDate": "2011-10-01",
+                "description": "Within every picture is a hidden language that conveys a message, whether it is intended or not. This language is based on the ways people perceive and process visual information. By understanding visual language as the interface between a graphic and a viewer, designers and illustrators can learn to inform with accuracy and power. In a time of unprecedented competition for audience attention and with an increasing demand for complex graphics, Visual Language for Designers explains how to achieve quick and effective communications. New in paperback, this book presents ways to design for the strengths of our innate mental capacities and to compensate for our cognitive limitations. Visual Language for Designers includes: —How to organize graphics for quick perception —How to direct the eyes to essential information —How to use visual shorthand for efficient communication —How to make abstract ideas concrete —How to best express visual complexity —How to charge a graphic with energy and emotion",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781592537419"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1592537413"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 240,
+                "printType": "BOOK",
+                "categories": [
+                    "Design"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.2.1.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=yUalr7fhZMEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=yUalr7fhZMEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=yUalr7fhZMEC&printsec=frontcover&dq=subject:ART&hl=&cd=8&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=yUalr7fhZMEC&dq=subject:ART&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Visual_Language_for_Designers.html?hl=&id=yUalr7fhZMEC"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Visual_Language_for_Designers-sample-pdf.acsm?id=yUalr7fhZMEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=yUalr7fhZMEC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "gqBqhcqf9RQC",
+            "etag": "XFeJ1j57ttw",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/gqBqhcqf9RQC",
+            "volumeInfo": {
+                "title": "Historia del arte universal de los siglos XIX y XX",
+                "authors": [
+                    "Ana María Preckler"
+                ],
+                "publisher": "Editorial Complutense",
+                "publishedDate": "2003",
+                "description": "Estudio del arte universal de los siglos XIX y XX a través de los artistas más representativos de cada país, con especial atención al arte español, en las tres disciplinas fundamentales de arquitectura, pintura y escultura.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "8474917069"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9788474917062"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 1406,
+                "printType": "BOOK",
+                "categories": [
+                    "Art"
+                ],
+                "averageRating": 5,
+                "ratingsCount": 2,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.0.2.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=gqBqhcqf9RQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=gqBqhcqf9RQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "es",
+                "previewLink": "http://books.google.com.hk/books?id=gqBqhcqf9RQC&printsec=frontcover&dq=subject:ART&hl=&cd=9&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=gqBqhcqf9RQC&dq=subject:ART&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Historia_del_arte_universal_de_los_siglo.html?hl=&id=gqBqhcqf9RQC"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=gqBqhcqf9RQC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "dHKxDwAAQBAJ",
+            "etag": "vqkN9nKFAMw",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/dHKxDwAAQBAJ",
+            "volumeInfo": {
+                "title": "A Love Letter to Europe",
+                "subtitle": "An outpouring of sadness and hope – Mary Beard, Shami Chakrabati, Sebastian Faulks, Neil Gaiman, Ruth Jones, J.K. Rowling, Sandi Toksvig and others",
+                "authors": [
+                    "Frank Cottrell Boyce",
+                    "William Dalrymple",
+                    "Margaret Drabble",
+                    "Simon Callow",
+                    "Tony Robinson",
+                    "Tracey Emin",
+                    "J.K. Rowling",
+                    "Holly Johnson",
+                    "Pete Townshend",
+                    "Melvyn Bragg",
+                    "Jeffrey Boakye",
+                    "Onjali Rauf",
+                    "Will Hutton",
+                    "Prue Leith",
+                    "Jonathan Meades",
+                    "Chris Riddell",
+                    "Various",
+                    "Philip Ardagh",
+                    "Mary Beard",
+                    "Brian Catling",
+                    "Shami Chakrabarti",
+                    "Chris Cleave",
+                    "Peter J Conradi",
+                    "Lindsey Davis"
+                ],
+                "publisher": "Hachette UK",
+                "publishedDate": "2019-10-31",
+                "description": "Great writers, artists, musicians and thinkers in British life say what Europe means to them: an outpouring of love and sadness. With pieces from Frank Cottrell Boyce, Melvyn Bragg, Margaret Drabble, Alan Hollinghurst, Will Hutton, Holly Johnson, Penelope Lively, Jonathan Meades, Deborah Moggach, Alan Moore, Jackie Morris, Cathy Rentzenbrink, Chris Riddle, Tony Robinson, Pete Townshend, Kate Williams, Michael Wood and many more... As Britain pulls away from Europe great British writers come together to give voice to their innermost feelings. Contributing essays that contain some of their finest writings and perspectives very different to the ones given in news outlets. The creative community here has its say on Brexit. Novelists, artists, comedians, historians, biographers, nature writers, film writers, travel writers, people young and old and from an extraordinary range of backgrounds. Most are famous perhaps because they have won the Booker or other literary prizes, written bestsellers, changed the face of popular culture or sold millions of records. Others are not yet household names but write with depth of insight and feeling. There is some extraordinary writing in this book. Some of these pieces are expressions of love of particular places in Europe. Some are true stories, some nostalgic, many hopeful. There are hilarious pieces. There are cries of pain and regret. Some pieces are quietly devastating. All are passionate. They show how Europe has helped us to expand our emotional, intellectual and artistic bandwidth, and hopefully will continue to do just that. Contributors include: Mary Beard, Jeffrey Boakye, Melvyn Bragg, Simon Callow, B. Catling, Shami Chakrabarti, Chris Cleave, Frank Cottrell Boyce, William Dalrymple, Lindsey Davis, Margaret Drabble, Tracey Emin, Michel Faber, Sebastian Faulks, Neil Gaiman, Evelyn Glennie, Alan Hollinghurst, Will Hutton, Holly Johnson, Ruth Jones, A.L. Kennedy, Hermione Lee, Prue Leith, Roger Lewis, Penelope Lively, Richard Mabey, Jonathan Meades, Andrew Miller, Deborah Moggach, Alan Moore, Paul Morley, Jackie Morris, Charles Nicholl, Irenosen Okojie, Onjali Q. Raúf, Chris Riddell, Tony Robinson, J.K. Rowling, Rhik Samadder, Isy Suttie, Sandi Toksvig, Pete Townshend, Kate Williams and Michael Wood.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781529381092"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1529381096"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": false
+                },
+                "pageCount": 400,
+                "printType": "BOOK",
+                "categories": [
+                    "Political Science"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.2.2.0.preview.2",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=dHKxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=dHKxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=dHKxDwAAQBAJ&printsec=frontcover&dq=subject:ART&hl=&cd=10&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=dHKxDwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=dHKxDwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 170.42,
+                    "currencyCode": "HKD"
+                },
+                "retailPrice": {
+                    "amount": 115.89,
+                    "currencyCode": "HKD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=dHKxDwAAQBAJ&rdid=book-dHKxDwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 170420000,
+                            "currencyCode": "HKD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 115890000,
+                            "currencyCode": "HKD"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/A_Love_Letter_to_Europe-sample-epub.acsm?id=dHKxDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=dHKxDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        }
+    ]
+}

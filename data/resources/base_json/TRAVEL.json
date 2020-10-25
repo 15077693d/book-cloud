@@ -1,0 +1,759 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 498,
+    "items": [
+        {
+            "kind": "books#volume",
+            "id": "NW9qAQAAQBAJ",
+            "etag": "mvmK7q9bNoA",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/NW9qAQAAQBAJ",
+            "volumeInfo": {
+                "title": "Analyse der touristischen Vermarktung des Landschaftsparkes Duisburg-Nord mit Handlungsempfehlungen für eine verbesserte touristische Inwertsetzung",
+                "authors": [
+                    "Julia Hafer"
+                ],
+                "publisher": "diplom.de",
+                "publishedDate": "2005-10-03",
+                "description": "Inhaltsangabe:Einleitung: Dem Ruhrgebiet hängt immer noch das Image des staubigen, dreckigen Kohlenpotts an, der geprägt ist von Industriebrachen, Ruinen und verseuchten Flächen. Dass dieses Bild falsch ist, zeigen die diversen Projekte, in denen alte Industrieanlagen einer neuen Nutzung zugeführt wurden und dadurch die Attraktivität der Region maßgeblich gesteigert haben. Durch verschiedene Arten der Inwertsetzung, sei es als Museum, Landmarke, Landschaftspark, origineller Schauplatz kultureller Veranstaltungen oder neuer Standort für gewerbliche Einrichtungen, bekommen diese Relikte des Industriezeitalters eine neue Funktion und helfen, das Image dieser Region aufzuwerten. Diese so genannte Industriekultur ist mittlerweile auch ein wichtiges Alleinstellungsmerkmal in der Vermarktung des Ruhrgebietes als Tourismusdestination geworden. Keine andere Region ist so stark von der Industrie geprägt wie das Ruhrgebiet und bietet somit zahlreiche Ansatzpunkte für die Entdeckung durch Kultur- oder Industrietouristen sowie interessierte Ausflügler aus der Umgebung. So ist die Route der Industriekultur, die 46 Industriekultur-Schauplätze verbindet, ein Beispiel für die touristische Erschließung der Region durch eine Themenroute. Die Vielfalt an industriekulturellen Einrichtungen bringt natürlich auch eine starke Konkurrenz mit sich. Die reine Existenz reicht dabei als Anreiz häufig nicht mehr aus. Denn der Trend im Reise- und Ausflugsverhalten geht weg vom bildungs- hin zum erlebnisorientierten Aufenthalt. Bedingt durch diesen wachsenden Anspruch der Besucher und Touristen an Qualität und Angebotsgestaltung touristischer Einrichtungen auf der einen Seite und starker Preissensibilität auf der anderen Seite, müssen auch Industriekulturdenkmäler diese Bedürfnisse berücksichtigen. Gang der Untersuchung: Diese Arbeit soll herausfinden, welche Aktivitäten bzw. welche Aspekte die Attraktivität der Einrichtung erhöhen und somit die Bedürfnisse der Besucher und Touristen nachhaltig befriedigen. Das Untersuchungsobjekt wird der Landschaftspark Duisburg-Nord sein, der als herausragendes Beispiel einer gelungenen Nachnutzung gilt. Seine Vermarktungsaktivitäten werden analysiert und es werden Möglichkeiten aufgezeigt, wie die touristische Inwertsetzung noch verbessert und somit eine nachhaltige Ansprache der Zielgruppe erreicht werden könnte. Das zweite Kapitel beginnt mit einer kurzen Darstellung des Ruhrgebietes und seiner Geschichte und klärt, inwieweit der [...]",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9783832490324"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "3832490329"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 116,
+                "printType": "BOOK",
+                "categories": [
+                    "Business & Economics"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.4.1.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=NW9qAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=NW9qAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "de",
+                "previewLink": "http://books.google.com.hk/books?id=NW9qAQAAQBAJ&printsec=frontcover&dq=subject:TRAVEL&hl=&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=NW9qAQAAQBAJ&dq=subject:TRAVEL&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Analyse_der_touristischen_Vermarktung_de.html?hl=&id=NW9qAQAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=NW9qAQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "45VUAgAAQBAJ",
+            "etag": "OI0wueP+vF8",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/45VUAgAAQBAJ",
+            "volumeInfo": {
+                "title": "Tessin",
+                "authors": [
+                    "Barbara Schaefer"
+                ],
+                "publisher": "DuMont Reiseverlag",
+                "publishedDate": "2013-04-22",
+                "description": "Der Reiseführer im Taschenbuchformat Schneebedeckte Hänge, gertenschlanke Zypressen und traditionelle Wohnhäuser inmitten rauer Berglandschaften - die Idylle täuscht, denn die kompromisslose Topografie des Tessins hat seinen Bewohnern viel abgetrotzt. Heute kann man in komfortabel umgebauten Ställen wohnen, die Fresken alter Meister in den Tessiner Kirchen bewundern oder über die moderne Fassade des Spielcasinos in Lugano staunen. Dolce vita pur versprechen das Bummeln und Baden am Lago Maggiore und am Lago di Lugano. Ausflugsschiffe gleiten über die Seen, vorbei an verträumten Ufern oder den ins Abendlicht getauchten Brissago-Inseln. Das DuMont Reise-Taschenbuch Tessin stellt die abwechlungsreiche Region auf vielfältige und informative Weise vor. Lust auf Bungee-Jumping, Klettern und Reiten? Die spektakuläre Alpenlandschaft des Tessin lädt zu zahlreichen Aktivitäten ein. Zu jedem Urlaub in der italienischen Schweiz gehören jedenfalls panoramareiche Bergwanderungen, z.B auf den Adula, den höchsten Berg des Kantons. Oben angekommen genießt man die Abgeschiedenheit und Ruhe einer Berghütte und wandert am nächsten Tag gestärkt wieder hinab. Einen Blick in sage und schreibe »hundert Täler« wirft man bei einer Fahrt mit der Centovallibahn, die gemächlich über 83 Brücken bis nach Italien führt. Im Tessin ist Italien um die Ecke und man gerät hier leicht und temperamentvoll ins Schwärmen und Träumen. Die Autorin Barbara Schäfer ist freie Kultur- und Reisejournalistin. Sie schreibt für verschiedene Tageszeitungen und Magazine. Sie wohnt in Berlin, reist sehr viel und wandert für ihr Leben gern. In das Tessin verliebte sie sich schon als Kind während der Ferien mit den Eltern. Später kehrte sie immer wieder zurück, entdeckte jedes Mal Neues und liebt die intensiven Naturerlebnisse in den Bergen und das bezaubernde Licht an den Seen. Man kann sich also von ihr an die Hand nehmen lassen, um gezielt zu den Highlights der Region geführt zu werden. Und zu ihren ganz persönlichen Lieblingsorten! Auf 10 Entdeckungstouren können Sie aktiv Neues entdecken, hinter die Kulissen schauen, eine ganz persönliche Beziehung zum Tessin entwickeln. Ausgewählte Adressen, jeweils mit einem aussagekräftigen Schlagwort bewertet, und zahlreiche Infos für alle, die Wert auf eine aktive und kreative Reisegestaltung legen, bieten das Rüstzeug für jeden, der individuell unterwegs sein möchte. Der Magazinteil beleuchtet mit frischer journalistischer Kompetenz die für das Reiseziel relevanten Themen und vermittelt ein lebendiges, aber auch kritisches Porträt des Tessin. 10 x Auf Entdeckungstour ! Mit Maulesel und Motorrad über den Gotthardpass Adula und Alpenveilchen - eine Wanderung Gingkos und Kamelien - Locarnos Seepromenade Der Dritte Weg - auf den Monte Verità Zwischen Wasser und Land - Naturschutz im Feuchtgebiet Auf den Spuren der Walser in Bosco Gurin Über Berg und Tal - mit der Centovallibahn nach Italien Modernes Bauen in Lugano - ein Rundgang Klingsors Palazzo - Hermann Hesse in Montagnola Immer Bellavista - wandern auf dem Monte Generoso Die Karten Satellitenaufnahme vom Tessin Übersichtskarte mit den Highlights der Region 9 Citypläne, Detail- und Wanderkarten: sämtliche Adressen sind anhand eines farbigen Nummernsystems verortet Plus: Extra-Reisekarte zum Herausnehmen",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9783770173310"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "3770173317"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 288,
+                "printType": "BOOK",
+                "categories": [
+                    "Travel"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.63.0.0.preview.1",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=45VUAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=45VUAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "de",
+                "previewLink": "http://books.google.com.hk/books?id=45VUAgAAQBAJ&printsec=frontcover&dq=subject:TRAVEL&hl=&cd=2&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=45VUAgAAQBAJ&dq=subject:TRAVEL&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Tessin.html?hl=&id=45VUAgAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=45VUAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "KLgYU76TKr4C",
+            "etag": "DWQuXY0EjMM",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/KLgYU76TKr4C",
+            "volumeInfo": {
+                "title": "Better to Travel",
+                "subtitle": "Selected Poems",
+                "authors": [
+                    "Collin Kelley"
+                ],
+                "publisher": "iUniverse",
+                "publishedDate": "2003-07-01",
+                "description": "\"A startling new voice.\" -Patricia Smith, Author of Big Towns, Big Talk Collin Kelley's debut, Better To Travel, is a haunting cycle of poetry dispatched from the teeming streets of London and New York to the decadence of Paris and New Orleans. From these far-flung outposts, Kelley deftly and unblinkingly conveys the end of a relationship and the need to escape to \"sights unseen.\" Readers have compared Kelley's poetry to the emotional work of Anne Sexton and Sharon Olds. This is confessional poetry in its truest form: raw, uninhibited and unflinching. www.collinkelley.com",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780595284092"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0595284094"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 107,
+                "printType": "BOOK",
+                "categories": [
+                    "Poetry"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.2.2.0.preview.3",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=KLgYU76TKr4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=KLgYU76TKr4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=KLgYU76TKr4C&printsec=frontcover&dq=subject:TRAVEL&hl=&cd=3&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=KLgYU76TKr4C&dq=subject:TRAVEL&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Better_to_Travel.html?hl=&id=KLgYU76TKr4C"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/Better_to_Travel-sample-epub.acsm?id=KLgYU76TKr4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=KLgYU76TKr4C&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "uPwsDgAAQBAJ",
+            "etag": "P1DEL+HG8hA",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/uPwsDgAAQBAJ",
+            "volumeInfo": {
+                "title": "60 Hikes Within 60 Miles: Sacramento",
+                "subtitle": "Including Auburn, Folsom, and Davis",
+                "authors": [
+                    "Jordan Summers"
+                ],
+                "publisher": "Menasha Ridge Press",
+                "publishedDate": "2012-04-10",
+                "description": "Carefully researched on foot, hiking enthusiast Jordan Summers introduces area residents and visitors to an array of the best day hikes from casual riverside nature hikes to rugged foothill treks within roughly an hour's drive of Sacramento. Filled with detailed descriptions of firsthand trail notes, this newly updated edition of 60 Hikes Within 60 Miles: Sacramento helps hikers discover their choices with concise at-a-glance information highlighting details such as location, access, directions, distances, scenery, and preparation details that help hikers get the most from each outing. Precise maps, descriptive text, photos, and trailhead coordinates guide you on your way quickly and keep you on route reliably. Discover the varied geology, the cultural history, and the natural beauty of the foothills, mother lode, and delta regions in 60 Hikes Within 60 Miles: Sacramento.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780897326056"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0897326059"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 352,
+                "printType": "BOOK",
+                "categories": [
+                    "Travel"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.0.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=uPwsDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=uPwsDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=uPwsDgAAQBAJ&printsec=frontcover&dq=subject:TRAVEL&hl=&cd=4&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=uPwsDgAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=uPwsDgAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 154,
+                    "currencyCode": "HKD"
+                },
+                "retailPrice": {
+                    "amount": 104.72,
+                    "currencyCode": "HKD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=uPwsDgAAQBAJ&rdid=book-uPwsDgAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 154000000,
+                            "currencyCode": "HKD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 104720000,
+                            "currencyCode": "HKD"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/60_Hikes_Within_60_Miles_Sacramento-sample-epub.acsm?id=uPwsDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/60_Hikes_Within_60_Miles_Sacramento-sample-pdf.acsm?id=uPwsDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=uPwsDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "qxa3JUeqygEC",
+            "etag": "0kJpBfOLyp4",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/qxa3JUeqygEC",
+            "volumeInfo": {
+                "title": "Haunted Places in the American South",
+                "authors": [
+                    "Alan Brown"
+                ],
+                "publisher": "Univ. Press of Mississippi",
+                "publishedDate": "2002",
+                "description": "Collecting ghost stories from 55 historically haunted sites throughout the United States, Brown reveals what is lurking behind slamming doors, eerie lights and sightings of Confederate soldiers.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1578064775"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781578064779"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 271,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.0.4.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=qxa3JUeqygEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=qxa3JUeqygEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=qxa3JUeqygEC&printsec=frontcover&dq=subject:TRAVEL&hl=&cd=5&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=qxa3JUeqygEC&dq=subject:TRAVEL&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Haunted_Places_in_the_American_South.html?hl=&id=qxa3JUeqygEC"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true
+                },
+                "pdf": {
+                    "isAvailable": true
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=qxa3JUeqygEC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "RTKJAAAAQBAJ",
+            "etag": "JPTMOhWc/PU",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/RTKJAAAAQBAJ",
+            "volumeInfo": {
+                "title": "CultureShock! Borneo",
+                "subtitle": "A Survival Guide to Customs and Etiquette",
+                "authors": [
+                    "Heidi Munan"
+                ],
+                "publisher": "Marshall Cavendish International Asia Pte Ltd",
+                "publishedDate": "2009-10-15",
+                "description": "CultureShock! Borneo gives you a fun-filled and thorough crash course on how to live and work in this slice of the East. Packed with useful and insightful tips, this book will guide you on how to deal with cultural barriers, relate with the various racial groups and fit into the intricate society. Learn how weddings, births and funerals are observed by the different ethnic groups and how you can participate meaningfully in them. Understand the strong family bonds in most Borneo families and how they affect all areas of life, starting with extremely complicated name system and forms of address. This book also covers practical matters such as finding a suitable home and understanding the work",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9789814484497"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "9814484490"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": false
+                },
+                "pageCount": 289,
+                "printType": "BOOK",
+                "categories": [
+                    "Travel"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.3.3.0.preview.2",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=RTKJAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=RTKJAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=RTKJAAAAQBAJ&printsec=frontcover&dq=subject:TRAVEL&hl=&cd=6&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=RTKJAAAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=RTKJAAAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 125.62,
+                    "currencyCode": "HKD"
+                },
+                "retailPrice": {
+                    "amount": 85.42,
+                    "currencyCode": "HKD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=RTKJAAAAQBAJ&rdid=book-RTKJAAAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 125620000,
+                            "currencyCode": "HKD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 85420000,
+                            "currencyCode": "HKD"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.hk/books/download/CultureShock_Borneo-sample-epub.acsm?id=RTKJAAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=RTKJAAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "euRFViqz0iUC",
+            "etag": "W1DHo434S8o",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/euRFViqz0iUC",
+            "volumeInfo": {
+                "title": "Saugatuck & Douglas",
+                "subtitle": "Hand-altered Polaroid Photographs",
+                "authors": [
+                    "Cynthia Davis"
+                ],
+                "publisher": "University of Michigan Press",
+                "publishedDate": "2004",
+                "description": "A photography book with a painter's soul. Celebrated artist Cynthia Davis captures the spirit of Saugatuck and Douglas with her unique vision",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0472114409"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780472114405"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 50,
+                "printType": "BOOK",
+                "categories": [
+                    "Photography"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.3.4.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=euRFViqz0iUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=euRFViqz0iUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=euRFViqz0iUC&printsec=frontcover&dq=subject:TRAVEL&hl=&cd=7&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=euRFViqz0iUC&dq=subject:TRAVEL&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Saugatuck_Douglas.html?hl=&id=euRFViqz0iUC"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=euRFViqz0iUC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "bigUiC--lJYC",
+            "etag": "4j6yOi6EtQo",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/bigUiC--lJYC",
+            "volumeInfo": {
+                "title": "Four Seasons in Rome",
+                "subtitle": "On Twins, Insomnia, and the Biggest Funeral in the History of the World",
+                "authors": [
+                    "Anthony Doerr"
+                ],
+                "publisher": "Simon and Schuster",
+                "publishedDate": "2008-06-10",
+                "description": "Documents the award-winning writer's experiences of living, working, and raising twin sons in Rome during the year following his receipt of a prestigious Rome Prize stipend, a period during which he attended the vigil of the dying John Paul II, brought his children on a snowy visit to the Pantheon, and befriended numerous locals. Reprint. 35,000 first printing.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781416573166"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "141657316X"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 210,
+                "printType": "BOOK",
+                "categories": [
+                    "Biography & Autobiography"
+                ],
+                "averageRating": 3.5,
+                "ratingsCount": 15,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.4.2.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=bigUiC--lJYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=bigUiC--lJYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=bigUiC--lJYC&printsec=frontcover&dq=subject:TRAVEL&hl=&cd=8&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=bigUiC--lJYC&dq=subject:TRAVEL&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Four_Seasons_in_Rome.html?hl=&id=bigUiC--lJYC"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=bigUiC--lJYC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "ZHKIinHAD8sC",
+            "etag": "IHHZK1ws1uY",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/ZHKIinHAD8sC",
+            "volumeInfo": {
+                "title": "Ten Million Steps",
+                "subtitle": "Nimblewill Nomad's Epic 10-Month Trek from the Florida Keys to Qubec",
+                "authors": [
+                    "M. J. Eberhart"
+                ],
+                "publisher": "Menasha Ridge Press",
+                "publishedDate": "2007-03-22",
+                "description": "M. J. Eberhart, aka the Nimblewill Nomad, was a 60-year-old retired doctor in January 1998 when he set off on a foot journey that carried him 4,400 miles (twice the length of the Appalachian Trail) from the Florida Keys to the far north of Quebec. Written in a vivid journal style, the author unabashedly recounts the good (friendships with other hikers he met), the bad (sore legs, cutting winds and rain), and the godawful (those dispiriting doubts) aspects of his days of walking along what has since become known as the Eastern Continental Trail (ECT). An amazing tale of self-discovery and insight into the magic that reverberates from intense physical exertion and a high goal, Eberhart’s is the only written account of a thru-hike along the ECT. Covering 16 states and 2 Canadian provinces, Ten Million Steps deftly mixes practical considerations of an almost unimaginable undertaking with the author’s trademark humor and philosophical musings.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0897329791"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780897329798"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": false
+                },
+                "pageCount": 544,
+                "printType": "BOOK",
+                "categories": [
+                    "Travel"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.0.3.0.preview.2",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=ZHKIinHAD8sC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=ZHKIinHAD8sC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=ZHKIinHAD8sC&dq=subject:TRAVEL&hl=&cd=9&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=ZHKIinHAD8sC&dq=subject:TRAVEL&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Ten_Million_Steps.html?hl=&id=ZHKIinHAD8sC"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true
+                },
+                "pdf": {
+                    "isAvailable": true
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=ZHKIinHAD8sC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "VmOvkPNog9AC",
+            "etag": "Q3/MHiFJhcU",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/VmOvkPNog9AC",
+            "volumeInfo": {
+                "title": "A User's Guide to Saskatchewan Parks",
+                "authors": [
+                    "Michael Clancy",
+                    "Anna Clancy"
+                ],
+                "publisher": "University of Regina Press",
+                "publishedDate": "2006",
+                "description": "There are three park systems in Saskatchewan: Regional, Provincial, and National. All provide wonderful recreational opportunities to virtually every community in the province.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0889771987"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780889771987"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 443,
+                "printType": "BOOK",
+                "categories": [
+                    "Travel"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.1.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=VmOvkPNog9AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=VmOvkPNog9AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.hk/books?id=VmOvkPNog9AC&printsec=frontcover&dq=subject:TRAVEL&hl=&cd=10&source=gbs_api",
+                "infoLink": "http://books.google.com.hk/books?id=VmOvkPNog9AC&dq=subject:TRAVEL&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/A_User_s_Guide_to_Saskatchewan_Parks.html?hl=&id=VmOvkPNog9AC"
+            },
+            "saleInfo": {
+                "country": "HK",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "HK",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=VmOvkPNog9AC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        }
+    ]
+}

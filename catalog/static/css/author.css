@@ -1,0 +1,47 @@
+/* author */
+.book {
+  margin-bottom: 20px;
+  padding: 20px;
+  background-color: white;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.img img {
+display:block;
+   margin:auto;
+  max-width: 100%;
+}
+.img {
+  width: 30%;
+  display: flex;
+  align-items:center;
+}
+
+.book-info{
+width:60%;
+}
+
+.book-info h6 {
+  font-weight: 500;
+  font-size: 12px;
+  color: rgb(100, 98, 98);
+}
+.book-info h4 {
+  font-weight: 700;
+  font-size: 20px;
+}
+.book-info p {
+  font-size: 10px;
+  margin-bottom: 0;
+  overflow:hidden;
+  height:80px
+}
+
+h1{
+  margin: 30px 0!important; 
+}
+
+h4{
+  margin-bottom: 15px!important;
+}
