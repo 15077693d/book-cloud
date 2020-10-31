@@ -138,3 +138,16 @@ cursor:pointer
 display:flex;
 justify-content:space-between;
 }
+
+.btn-group{
+  width: 100%;
+}
+
+#user-confirm{
+display:block;
+margin:auto;
+}
+
+#email{
+display:none
+}

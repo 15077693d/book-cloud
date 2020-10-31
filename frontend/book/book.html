@@ -69,12 +69,53 @@
         <i class="fas fa-search"></i>
       </button>
     </form>
+    <div class="overlay">
+      <div class="book-pop-up">
+        <h2>你想向哪位用戶借閱？</h2>
+        <form>
+          <div>
+            <label for="name1"> <a href=""  target="_blank">
+              123@gmail.com
+            </a> </label>
+            <input
+              class="form-check-input"
+              type="radio"
+              name="exampleRadios"
+              id="name1"
+              value="option1"
+              checked
+            />
+          </div>
+          <div>
+            <label for="name2"> 123@gmail.com </label>
+            <input
+              class="form-check-input"
+              type="radio"
+              name="exampleRadios"
+              id="name2"
+              value="option1"
+              checked
+            />
+          </div>
+
+          <textarea
+          placeholder="你好！我想看這本書很久了，可以向你借閱嗎？"
+            class="form-control"
+            id="exampleFormControlTextarea1"
+            rows="3"
+          ></textarea>
+          <button type="submit" class="btn btn-primary">確定</button>
+        </form>
+      </div>
+    </div>
     <div class="container">
       <div class="book-grid">
         <img src="image1.jpg" />
         <div class="book-info">
           <h4>CLASSROOM OF THE ELITE (LIGHT NOVEL) VOL. 6</h4>
-          <h6><a href="#">Story by Syougo Kinugasa; Art by Tomoseshunsaku</a></h6>
+          <h6>
+            <a href="#">Story by Syougo Kinugasa; Art by Tomoseshunsaku</a>
+          </h6>
           <h6>Seven Seas</h6>
         </div>
         <div class="book-description">
@@ -90,9 +131,22 @@
       </div>
       <div class="book-record">
         <div class="book-borrow">
-          <span>持書用戶： <i data-toggle="tooltip" data-html="true" title="<em>Tooltip</em> <u>with</u> <b>HTML</b>" class="fas fa-user-alt"></i> 
-            <i data-toggle="tooltip" data-html="true" title="<em>Tooltip</em> <u>with</u> <b>HTML</b>" class="fas fa-user-alt"></i>  </span>
-          <button class="btn btn-primary" id="search-submit-btn" type="submit">
+          <span
+            >持書用戶：
+            <i
+              data-toggle="tooltip"
+              data-html="true"
+              title="<em>Tooltip</em> <u>with</u> <b>HTML</b>"
+              class="fas fa-user-alt"
+            ></i>
+            <i
+              data-toggle="tooltip"
+              data-html="true"
+              title="<em>Tooltip</em> <u>with</u> <b>HTML</b>"
+              class="fas fa-user-alt"
+            ></i>
+          </span>
+          <button class="btn btn-primary" id="book-btn" type="submit">
             預約書籍
           </button>
         </div>

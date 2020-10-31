@@ -5,10 +5,27 @@ $("#search-btn").on("click",
     }
 )
 
-$('[data-toggle="tooltip"]').tooltip();   
+$('[data-toggle="tooltip"]').tooltip();
 
 $("#ham-btn").on("click",
     () => {
         $("#nav-item-moblie").toggleClass("clicked")
     }
 )
+
+$("#book-btn").on("click", function () {
+    $(".overlay").css('display', "flex")
+})
+
+$(".overlay").on("click",
+    function (event) {
+        if (event.target.getAttribute("class") === "overlay") {
+            $(this).hide()
+        }
+    }
+)
+
+// $(".book-pop-up").on("click",
+//     function () {
+//         $(this).css('display', "block")
+//     })

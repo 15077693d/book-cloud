@@ -187,3 +187,46 @@ img {
   }
 }
 
+/* pop up */
+.overlay {
+  display: none;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  z-index: 2;
+  width: 100vw;
+  height: 90vh;
+  background-color: #f7f3ed8a;
+}
+
+.book-pop-up{
+  border-radius: 15px;
+  padding: 40px;
+  width:80vw;
+  max-width: 500px;
+  background: white;
+}
+.form-check-input{
+  position: relative!important;
+}
+.book-pop-up div{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.book-pop-up textarea{
+  margin-bottom: 20px;
+}
+
+.book-pop-up  button{
+  margin: auto;
+  display: block;
+}
+.book-pop-up div input{
+  width: 30px; height: 30px;
+}
+
+.book-pop-up h2{
+  margin-bottom: 20px;
+}

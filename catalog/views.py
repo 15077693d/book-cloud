@@ -5,6 +5,30 @@ from django.shortcuts import render, redirect
 from catalog.utils import *
 
 
+def user(request,username):
+    # username = request.session['user']
+    friend_names = []
+    receive_friend = Friend.objects.filter(receiver__username=username)
+    for friend in receive_friend:
+        friend_names.append(friend.requester.username)
+    request_friend = Friend.objects.filter(requester__username=username)
+    for friend in request_friend:
+        friend_names.append(friend.receiver.username)
+    user_object = User.objects.get_by_natural_key(username=username)
+    hold_bookInstances=BookInstance.objects.filter(holder__username=username)
+    hold_book = {}
+    for bookInstance in hold_bookInstances:
+        hold_book[bookInstance.book.id] = bookInstance.book.image
+    read_bookInstances=BookInstance.objects.filter(history__in=[user_object])
+    read_book = {}
+    for bookInstance in read_bookInstances:
+        read_book[bookInstance.book.id] = bookInstance.book.image
+    return render(request, 'profile.html',context={"friends":friend_names,
+                                                   "hold_book":hold_book,
+                                                   "read_book":read_book,
+                                                   "username":username})
+
+
 def book(request, book_id):
     book_object = Book.objects.get(pk=book_id)
     book_instance_objects = BookInstance.objects.filter(book__title=book_object.title)
@@ -72,13 +96,14 @@ def authors(request, page):
 
 def signup_login_logout(request):
     if 'signup' in request.POST:
-        user = User.objects.create_user(request.POST['email'], request.POST['email'], request.POST['password'])
+        user = User.objects.create_user(email=request.POST['email'], username=request.POST['username'],
+                                        password=request.POST['password'])
         user.save()
-        request.session['user'] = request.POST['email']
+        request.session['user'] = user.username
     elif 'login' in request.POST:
-        user = authenticate(username=request.POST['email'], password=request.POST['password'])
+        user = authenticate(username=request.POST['username'], password=request.POST['password'])
         if user is not None:
-            request.session['user'] = request.POST['email']
+            request.session['user'] = user.username
         else:
             return redirect(request.POST['url'])
     else:

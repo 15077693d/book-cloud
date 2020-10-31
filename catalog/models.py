@@ -2,7 +2,16 @@ from django.contrib.auth.models import User
 from django.db import models
 
 
-# Create your models here.
+class Friend(models.Model):
+    friend_STATUS = [
+        ('w', 'waiting'),
+        ('r', 'rejected'),
+        ('a', 'available'),
+    ]
+    status = models.CharField(max_length=1, default='w', choices=friend_STATUS)
+    receiver = models.OneToOneField(User, related_name='receiver_friend_set', on_delete=models.CASCADE)
+    requester = models.OneToOneField(User, related_name='requester_friend_set', on_delete=models.CASCADE)
+
 class Language(models.Model):
     name = models.CharField(max_length=30)
 
@@ -57,13 +66,15 @@ class BookInstance(models.Model):
         ('a', 'Available'),
         ('r', 'Reserved'),
     ]
-    borrower = models.ForeignKey(User, related_name='borrower_bookinstance_set', on_delete=models.CASCADE, null=True)
+    borrower = models.ForeignKey(User, related_name='borrower_bookinstance_set', on_delete=models.CASCADE, null=True,
+                                 blank=True)
     holder = models.ForeignKey(User, related_name='holder_bookinstance_set', on_delete=models.SET_NULL, null=True,
                                default=holder_default)
-    bookers = models.ManyToManyField(User)
+    bookers = models.ManyToManyField(User, blank=True)
     book = models.ForeignKey(Book, on_delete=models.CASCADE, null=True)
     due_back = models.DateTimeField(blank=True, null=True)
     status = models.CharField(max_length=1, default='m', choices=LOAN_STATUS)
+    history = models.ManyToManyField(User, related_name='history_bookinstance_set', blank=True)
 
     def display_book(self):
         return self.book.title

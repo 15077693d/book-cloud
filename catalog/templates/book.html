@@ -3,6 +3,40 @@
 {% block css %}
 <link rel="stylesheet" href="{% static 'css/book.css' %}"/>{% endblock %}
 {% block content%}
+ <div class="book-overlay">
+      <div class="book-pop-up">
+        <h2>你想向哪位用戶借閱？</h2>
+        <form>
+            {% for book_instance in book_instances %}
+            {% ifequal book_instance.status "a" %}
+          <div>
+            <label for="name1"> <a href=""  target="_blank">
+              {{book_instance.holder.username}}
+            </a> </label>
+            <input
+              class="form-check-input"
+              type="radio"
+              name="exampleRadios"
+              id="name1"
+              value="option1"
+              checked
+            />
+          </div>
+            {% else %}
+            {% endifequal %}
+            {% endfor %}
+
+
+          <textarea
+          placeholder="你好！我想看這本書很久了，可以向你借閱嗎？"
+            class="form-control"
+            id="exampleFormControlTextarea1"
+            rows="3"
+          ></textarea>
+          <button type="submit" class="btn btn-primary">傳送</button>
+        </form>
+      </div>
+    </div>
 <div class="container">
     <div class="book-grid">
         <img src="{{book.image}}"/>
@@ -20,15 +54,20 @@
     </div>
     <div class="book-record">
         <div class="book-borrow">
-         <span>持書用戶：{% for book_instance in book_instances %} <i data-toggle="tooltip" data-html="true" title="<em>{{book_instance.holder.username}}</em>" class="fas fa-user-alt"></i>
+         <span>持書用戶：{% for book_instance in book_instances %}
+             {% ifequal book_instance.status "a" %}
+             <i data-toggle="tooltip" data-html="true" title="<em>{{book_instance.holder.username}}</em>" class="fas fa-user-alt avaliable"></i>
+             {% else %}
+             <i data-toggle="tooltip" data-html="true" title="<em>{{book_instance.holder.username}}</em>" class="fas fa-user-alt"></i>
+             {% endifequal %}
          {% endfor %}
          </span>
             {% if request.session.user %}
-            <button class="btn btn-primary" id="search-submit-btn" type="submit">
+                <button class="btn btn-primary" id="book-btn" type="submit">
                 借閱書籍
             </button>
             {% else %}
-            <button class="btn btn-primary" id="search-submit-btn" type="submit" disabled>
+            <button class="btn btn-primary" id="book-btn"  disabled>
                 借閱書籍
             </button>
             {% endif %}

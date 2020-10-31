@@ -34,3 +34,18 @@ $(".login-layor").on("click",
          $('body').toggleClass("login-clicked-body")
     }
 )
+
+$("#login-switch").on("click", function () {
+    $(this).removeClass("btn-outline-primary").addClass("btn-primary");
+    $("#signup-switch").removeClass("btn-primary").addClass("btn-outline-primary");
+    $("#email").css("display","none")
+    $("#user-confirm").attr("name","login")
+})
+
+$("#signup-switch").on("click", function () {
+    $(this).removeClass("btn-outline-primary").addClass("btn-primary");
+    $("#login-switch").removeClass("btn-primary").addClass("btn-outline-primary");
+    $("#email").css("display","block")
+    $("#user-confirm").attr("name","signup")
+})
+

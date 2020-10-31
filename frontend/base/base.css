@@ -4,7 +4,6 @@ body {
   background-color: #f7f3ed !important;
 }
 
-
 /* nav */
 
 .nav-link {
@@ -72,3 +71,80 @@ body {
     display: block;
   }
 }
+
+/* login */
+.login-clicked-body {
+  height: 100vh;
+  overflow: hidden;
+}
+#login-moblie,
+#login {
+  cursor: pointer;
+}
+.login-layor {
+  height: 120vh;
+  z-index: 1;
+  width: 100vw;
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.login-page {
+  position: absolute;
+  width: 100vw;
+  height: 80vh;
+  display: none;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-clicked {
+  display: flex;
+}
+.login-page form {
+  z-index: 2;
+  width: 80vw;
+  max-width: 500px;
+  padding: 60px 30px 30px 30px;
+  background-color: rgba(255, 255, 255);
+  border-radius: 15px;
+}
+.btns {
+  width: fit-content;
+}
+#register {
+  margin-left: 10px;
+}
+.login-page form input,
+.login-page form div {
+  margin-bottom: 30px;
+}
+#url {
+  display: none;
+}
+
+.btn-group{
+  width: 100%;
+}
+#login-submit{
+  display: block;
+  margin: auto;
+}
+
+@media (min-width: 700px) {
+  .login-page form {
+    width: 80vw;
+    max-width: 500px;
+    padding: 60px 60px 30px 60px;
+  }
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.logout-box {
+  display: flex;
+  justify-content: space-between;
+}
+

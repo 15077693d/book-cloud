@@ -36,7 +36,7 @@
       </div>
       <div id="nav-desktop">
         <div id="nav-item">
-          <a id="login" class="nav-link">登入</a>
+          <a class="nav-link" href="#">登入</a>
           <a class="nav-link" href="/books/books.html">書籍</a>
           <a class="nav-link" href="/authors/authors.html">作者</a>
         </div>
@@ -54,7 +54,7 @@
       </div>
     </nav>
     <div class="navbar-nav" id="nav-item-moblie">
-      <a class="nav-link" id="login">登入</a>
+      <a class="nav-link" href="#">登入</a>
       <a class="nav-link" href="/books/books.html">書籍</a>
       <a class="nav-link" href="/authors/authors.html">作者</a>
     </div>
@@ -69,33 +69,30 @@
         <i class="fas fa-search"></i>
       </button>
     </form>
-    <script type="text/javascript" src="base.js"></script>
-    <div class="login-page">
-      <div class="login-layor"></div>
-      <form action="/signup_login_logout" method="post">
-        <div class="btn-group">
-          <span class="btn btn-outline-primary" id="login-switch" >登入</span>
-          <span class="btn btn-outline-primary" id="signup-switch" >註冊</span>
+    <div class="container">
+      <div class="top">
+        <h1>123@gmail.com</h1>
+      </div>
+      <div>
+        <h2>我的朋友</h2>
+        <div class="friends">
+          <a href="#" class="btn btn-primary">ok@gmail.com</a>
+          <a href="#" class="btn btn-secondary">wait@gmail.com</a>
         </div>
-        <input
-          id="email"
-          name="email"
-          class="form-control"
-          type="email"
-          placeholder="電郵地址"
-          aria-label="Search"
-        />
-        <input
-          id="password"
-          name="password"
-          class="form-control"
-          type="password"
-          placeholder="密碼"
-          aria-label="Search"
-        />
-        <input id="url" name="url" type="text" />
-        <button id="login-submit" class="btn btn-primary" name="login" type="submit">確定</button>
-      </form>
+      </div>
+      <div>
+        <h2>我的藏書</h2>
+        <div class="book-hold">
+          <a href="#"><img src="image1.jpg" /></a>
+        </div>
+      </div>
+      <div>
+        <h2>借閱記錄</h2>
+        <div class="book-borrow">
+          <a href="#"><img src="image1.jpg" /></a>
+        </div>
+      </div>
     </div>
+    <script type="text/javascript" src="base.js"></script>
   </body>
 </html>

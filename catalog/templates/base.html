@@ -31,10 +31,10 @@
 
         <div id="nav-item">
             {% if request.session.user %}
-            <a class="nav-link pointer">{{request.session.user}}</a>
+            <a class="nav-link pointer" href="{% url 'user' username=request.session.user%}">{{request.session.user}}</a>
             <a type="submit" class="nav-link" id="login">登岀</a>
             {% else %}
-            <a class="nav-link" id="login">登入</a>
+            <a class="nav-link" id="login">登入 / 註冊</a>
             {% endif %}
             <a class="nav-link" href="{% url 'books' genre='all' page=1 %}">書籍</a>
             <a class="nav-link" href="{% url 'authors' page=1 %}">作者</a>
@@ -54,10 +54,10 @@
 </nav>
 <div class="navbar-nav" id="nav-item-moblie">
     {% if request.session.user %}
-    <a class="nav-link pointer">{{request.session.user}}</a>
+    <a class="nav-link pointer" href="{% url 'user' username=request.session.user %}">{{request.session.user}}</a>
     <a class="nav-link" id="login-moblie">登岀</a>
     {% else %}
-    <a class="nav-link" id="login-moblie">登入</a>
+    <a class="nav-link" id="login-moblie">登入 / 註冊</a>
     {% endif %}
     <a class="nav-link" href="{% url 'books' genre='all' page=1 %}">書籍</a>
     <a class="nav-link" href="{% url 'authors' page=1 %}">作者</a>
@@ -85,12 +85,24 @@
             </button>
         </div>
         {% else %}
+        <div class="btn-group">
+            <span class="btn btn-primary" id="login-switch">登入</span>
+            <span class="btn btn-outline-primary" id="signup-switch">註冊</span>
+        </div>
         <input
                 id="email"
                 name="email"
                 class="form-control"
                 type="email"
                 placeholder="電郵地址"
+                aria-label="Search"
+        />
+          <input
+                id="username"
+                name="username"
+                class="form-control"
+                type="text"
+                placeholder="用戶名稱"
                 aria-label="Search"
         />
         <input
@@ -106,20 +118,16 @@
                 name="url"
                 type="text"
         />
-        <div class="btns">
-            <button class="btn btn-primary" name="login" type="submit">
-                登入
-            </button>
-            <button class="btn btn-primary" name="signup" type="submit">
-                註冊
-            </button>
-        </div>
+        <button class="btn btn-primary" id="user-confirm" name="login" type="submit">
+            確認
+        </button>
         {% endif %}
     </form>
 </div>
 {% block content %}{% endblock %}
 <script src="{% static 'js/jquery-3.5.1.min.js' %}"></script>
 <script type="text/javascript" src="{% static 'js/base.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/profile.js' %}"></script>
 <script type="text/javascript" src="{% static 'js/books.js' %}"></script>
 <script type="text/javascript" src="{% static 'js/book.js' %}"></script>
 <script type="text/javascript" src="{% static 'js/index.js' %}"></script>

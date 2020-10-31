@@ -25,15 +25,24 @@ class BookAdmin(admin.ModelAdmin):
 @admin.register(BookInstance)
 class BookInstanceAdmin(admin.ModelAdmin):
     list_filter = ('status', 'due_back')
-    list_display = ('display_book', 'status', 'due_back')
+    list_display = ('display_book', 'status', 'due_back',)
     fieldsets = (
         ('Availability', {
             'fields': ('status', 'due_back')
         }),
          ('Role', {
             'fields': ('borrower', 'holder', 'bookers')
-        })
+        }),
+        (
+            'Record',{
+                'fields': ('book', 'history')
+            }
+        )
     )
+
+@admin.register(Friend)
+class FriendAdmin(admin.ModelAdmin):
+    list_display = ('status', 'receiver', 'requester')
 
 
 admin.site.register(Language)
